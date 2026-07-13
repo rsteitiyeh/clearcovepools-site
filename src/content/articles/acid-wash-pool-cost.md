@@ -2,7 +2,10 @@
 title: "Acid wash pool cost: what pros charge and when you actually need one"
 description: "Acid wash pool cost: what pros charge and when you actually need one"
 keyword: "acid wash pool cost"
-publishDate: 2026-07-12
+publishDate: 2026-07-13
+updatedDate: 2026-07-13
+author: "The ClearCove Pools Team"
+draft: false
 ---
 
 Acid wash pool cost: what pros charge and when you actually need one
@@ -53,7 +56,7 @@ These are approximate 2026 ballpark ranges for professional service in the US, w
 | Add-on: drain and refill handling         | $150 to $400             | Plus your water bill, often $60 to $200 for a refill |
 | Add-on: startup chemicals after refill    | $100 to $200             | Balancing a fresh fill from zero                     |
 
-![](/media/489e69a91445b2cb12363563d08250e9154bbe60.png)
+![](media/489e69a91445b2cb12363563d08250e9154bbe60.png)
 
 *Figure 1. Approximate professional acid wash cost ranges by pool size and condition, 2026 US ballparks.*
 
