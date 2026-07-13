@@ -1,0 +1,35 @@
+{
+  "kind": "calculator",
+  "heading": "Your pool",
+  "sub": "Enter today's test readings. Get a practical starting dose in seconds.",
+  "fields": [
+    { "id": "unit", "label": "Volume unit", "type": "select", "options": [
+      { "label": "Gallons", "value": 1 },
+      { "label": "Liters", "value": 2 }
+    ]},
+    { "id": "volume", "label": "Pool volume", "type": "number", "value": 15000, "min": 100 },
+    { "id": "fc", "label": "Current free chlorine", "unit": "ppm", "type": "number", "value": 1, "min": 0, "step": 0.1 },
+    { "id": "targetFc", "label": "Target free chlorine", "unit": "ppm", "type": "number", "value": 3, "min": 0, "step": 0.1 },
+    { "id": "ph", "label": "pH", "type": "number", "value": 7.8, "min": 6.5, "step": 0.1 },
+    { "id": "ta", "label": "Alkalinity", "unit": "ppm", "type": "number", "value": 90, "min": 0 },
+    { "id": "cya", "label": "CYA", "unit": "ppm", "type": "number", "value": 40, "min": 0 },
+    { "id": "strength", "label": "Chlorine product", "type": "select", "options": [
+      { "label": "Liquid chlorine — 10%", "value": 10 },
+      { "label": "Liquid chlorine — 12.5%", "value": 12.5 },
+      { "label": "Household bleach — 6%", "value": 6 },
+      { "label": "Cal-hypo — 65% (approx.)", "value": 65 },
+      { "label": "Dichlor — 56% (approx.)", "value": 56 }
+    ]}
+  ],
+  "outputs": [
+    { "id": "chlorine", "label": "Chlorine" },
+    { "id": "acid", "label": "Muriatic acid (31.45%)", "note": "rough estimate toward pH 7.5" },
+    { "id": "baking", "label": "Baking soda", "note": "rough estimate toward 80 ppm TA" }
+  ],
+  "statuses": [
+    { "id": "balanced", "label": "Balanced", "tone": "ok" },
+    { "id": "attention", "label": "Needs Attention", "tone": "warn" },
+    { "id": "shock", "label": "Shock It", "tone": "bad" }
+  ],
+  "disclaimer": "Approximations vary with product strength, temperature, borates and test accuracy. Add chemicals separately, follow labels, circulate and retest. Never mix chemicals."
+}

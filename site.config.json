@@ -1,0 +1,25 @@
+{
+  "SITE": "https://clearcovepools.com",
+  "BRAND": "ClearCove Pools",
+  "niche": "07-pool",
+  "stealth": true,
+  "toolArchetype": "calculator",
+  "mailerlite": { "formAction": "https://assets.mailerlite.com/jsonp/PLACEHOLDER/forms/subscribe" },
+  "lemonsqueezy": { "checkoutUrl": "https://PLACEHOLDER.lemonsqueezy.com/checkout" },
+  "cfBeaconToken": "",
+  "magnet": { "file": "/downloads/weekly-pool-care-schedule.pdf", "doneMessage": "You're in - the 10-Minute Weekly Pool Care Schedule is downloading now." },
+  "author": { "name": "{{AUTHOR_NAME}}", "bio": "{{AUTHOR_BIO}}" },
+  "legalEntity": "Trilot LLC",
+  "comingSoon": {
+    "promise": "Crystal-clear pool water, without the chemical guesswork. Coming soon.",
+    "captureLabel": "Send me the free weekly care schedule"
+  },
+  "theme": {
+    "bg": "#f6fffe",
+    "ink": "#07334c",
+    "accent": "#ff6b57",
+    "accent2": "#087fac",
+    "headingFont": "\"Trebuchet MS\", \"Avenir Next\", Arial, sans-serif",
+    "bodyFont": "\"Trebuchet MS\", \"Avenir Next\", Arial, sans-serif"
+  }
+}
