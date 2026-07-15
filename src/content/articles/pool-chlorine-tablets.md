@@ -1,178 +1,88 @@
 ---
-title: "Pool chlorine tablets: how they work, dosing, and the CYA problem"
-description: "Pool chlorine tablets: how they work, dosing, and the CYA problem"
+title: "Pool Chlorine Tablets: Dosing, Cost, and the CYA Problem"
+description: "Pool chlorine tablets add steady sanitizer but also cyanuric acid. See the real dosing math, tablet costs, and when CYA buildup forces a drain."
 keyword: "pool chlorine tablets"
-publishDate: 2026-07-12
+publishDate: 2026-07-14
 ---
 
-Pool chlorine tablets: how they work, dosing, and the CYA problem
+# Pool Chlorine Tablets: Dosing, Cost, and the CYA Problem
 
-|                        |                                                                                                      |
-| ---------------------- | ---------------------------------------------------------------------------------------------------- |
-| **Primary keyword**    | pool chlorine tablets                                                                                |
-| **Secondary keywords** | how to use pool chlorine tablets, trichlor tablets, 3 inch chlorine tablets, chlorine tablet floater |
-| **Slug**               | pool-chlorine-tablets                                                                                |
-| **Byline**             | The ClearCove Pools Team (Trilot)                                                                          |
-| **Date updated**       | 2026-07-12                                                                                           |
+Pool chlorine tablets are 3-inch pucks of trichlor, a stabilized chlorine compound that's about 90% available chlorine. One tablet dissolved per 10,000 gallons adds roughly 5.5 ppm of free chlorine and, less obviously, about 3.3 ppm of cyanuric acid (CYA), a stabilizer that builds up every week you use tablets and never breaks down on its own.
 
-**Pool chlorine tablets are compressed trichlor (trichloroisocyanuric acid), a slow dissolving sanitizer that is roughly 90 percent available chlorine. The standard dose is one 3 inch tablet per 5,000 gallons per week, fed through an inline chlorinator or a floater, with free chlorine held at 1 to 4 ppm. Each tablet also adds cyanuric acid, so CYA creeps up all season.**
+That second number is the part most tablet buyers never see on the bucket label. Tablets are convenient because they dissolve slowly and keep sanitizer steady between visits, but every tablet also adds stabilizer that accumulates season over season. Get the CYA math wrong and you end up with a pool that tests "fine" for chlorine but can't actually kill anything effectively, because high CYA suppresses chlorine's killing power even when the ppm number looks normal.
 
-That short version covers most backyards, but the details matter. How fast tablets dissolve, where you put them, and how long you have run them this season all change the answer. We run tablets in our own pools every summer, and this guide is everything we wish someone had told us the first year.
+## What exactly is in a pool chlorine tablet?
 
-What trichlor tablets actually are
+The active ingredient in essentially every 3-inch pool chlorine tablet sold in the US is trichloro-s-triazinetrione, known as trichlor, standardized at around 90% available chlorine per EPA pesticide registration and Pool & Hot Tub Alliance (PHTA) product standards. The remaining mass is largely cyanuric acid, which is chemically bonded into the tablet itself, not a separate additive. That's why trichlor tablets are called "stabilized" chlorine: the stabilizer ships built into every puck, whether you want more of it or not.
 
-A chlorine tablet is not pure chlorine. It is trichloroisocyanuric acid, usually shortened to trichlor, pressed into a puck. Trichlor is about 90 percent available chlorine by weight, which makes it the most concentrated form of chlorine you can buy for a residential pool.
+Trichlor is also acidic (its own pH runs low), so constant tablet-only dosing tends to pull pool pH and total alkalinity down over time. That's a manageable, well-known side effect, but it means a tablets-only pool typically needs a bit more soda ash or pH-up over a season than a liquid-chlorine pool does.
 
-The other part of the molecule is cyanuric acid, or CYA. CYA is a stabilizer. It shields chlorine from sunlight, and without it an outdoor pool can lose half its free chlorine to UV in under two hours. That protection is why tablets exist. It is also the source of their one real drawback, which we cover below.
+## How much chlorine and CYA does one tablet actually add?
 
-Tablets dissolve slowly and steadily, typically over 3 to 7 days depending on water temperature and flow. That slow release is the whole appeal. Liquid chlorine gives you a dose today and nothing tomorrow. A tablet keeps feeding while you are at work or on vacation.
+A single 3-inch trichlor tablet adds approximately 5.5 ppm of free available chlorine and approximately 3.3 ppm of cyanuric acid per 10,000 gallons of pool water, a figure derived from trichlor's known chlorine and CYA content and used consistently across pool chemistry references such as PoolCalculator-style dosing tools and hobbyist chemistry sites. Scale that number by your actual pool volume to see what one tablet really does to your water.
 
-How pool chlorine tablets work in the water
+| Pool volume | Free chlorine added per tablet | Cyanuric acid added per tablet | Tablets/week for 1 to 4 ppm FC (typical) |
+|---|---|---|---|
+| 10,000 gal | ~5.5 ppm | ~3.3 ppm | 1 |
+| 15,000 gal | ~3.7 ppm | ~2.2 ppm | 1 to 2 |
+| 20,000 gal | ~2.75 ppm | ~1.6 ppm | 2 |
+| 30,000 gal | ~1.8 ppm | ~1.1 ppm | 3 |
 
-When a tablet dissolves, it releases hypochlorous acid, the active killing form of chlorine, plus cyanuric acid. Hypochlorous acid attacks bacteria and algae on contact. The CDC recommends keeping free chlorine at 1 to 4 ppm in residential pools, with pH between 7.0 and 7.8, and you can read their swimming water guidance at https://www.cdc.gov/healthy-swimming/safety/what-you-can-do-to-stay-healthy-in-swimming-pools.html.
+Manufacturers generally recommend one 3-inch tablet per 10,000 gallons per week to maintain a free chlorine range of 1 to 4 ppm, adjusting up for hot weather, heavy bather load, or high UV exposure. That guidance holds across most major tablet brands sold in the US.
 
-pH matters more than most owners realize. At pH 7.2, roughly two thirds of your free chlorine exists as fast acting hypochlorous acid. At pH 8.0, that share drops to about a quarter. Same test reading, much weaker sanitizer. Trichlor itself is very acidic, around pH 2.8 to 3 in solution, so heavy tablet use tends to drag pH and total alkalinity down over time. Keep alkalinity in the 80 to 120 ppm range so pH does not swing.
+## Why does cyanuric acid actually matter (the real problem with tablets)?
 
-Tablet sizes: 1 inch vs 3 inch
+Cyanuric acid shields chlorine from being burned off by UV light, which is genuinely useful outdoors, but it also chemically binds a portion of the chlorine so it can't sanitize as fast. Past a certain point, adding more chlorine barely helps because too much of it is tied up by stabilizer. [The CDC's Model Aquatic Health Code caps CYA at 15 ppm for commercial pools during an accidental fecal release response](https://www.cdc.gov/model-aquatic-health-code/media/pdfs/2024/11/5th-Ed-MAHC-Code-508.pdf), specifically because high CYA drags out the contact time needed to kill cryptosporidium to an impractical length. For routine residential operation (not an active contamination event), the pool chemistry industry generally recommends keeping CYA in a 30 to 50 ppm working range, with levels above roughly 50 ppm considered a point of diminishing returns where the sanitizing loss outweighs the UV protection benefit.
 
-Tablets come in two common sizes and the choice is mostly about pool volume.
+Here's the math that catches most tablet-only owners off guard. A 15,000-gallon pool run on tablets alone at an average of 1.5 tablets a week adds about 3.3 ppm of CYA every week. Over a 20-week swim season, that's roughly 65 ppm of new stabilizer stacked on top of whatever CYA was already in the water at the start of the season. Start the season at an already-present 30 ppm and you can cross 90 to 100 ppm well before Labor Day, which is why "the chlorine doesn't seem to be doing anything anymore" is one of the most common tablet-user complaints by late summer. CYA doesn't evaporate, get filtered out, or break down with sunlight; the only ways down are diluting the water (a partial drain and refill) or a CYA-reducer product, and both cost time and money that a small amount of liquid chlorine in the rotation would have avoided.
 
-|               |                         |                                                                  |                                                                                   |
-| ------------- | ----------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| **Size**      | **Typical weight**      | **Best for**                                                     | **Notes**                                                                         |
-| 3 inch tablet | About 7 to 8 oz (200 g) | Pools 5,000 gallons and up                                       | The default. One tablet per 5,000 gallons per week is the standard rule of thumb. |
-| 1 inch tablet | About 0.5 oz (15 g)     | Spas, kiddie pools, small above ground pools under 5,000 gallons | Dissolves fast. Using them in a big pool means constant refilling.                |
+## What does using chlorine tablets actually cost?
 
-For anything bigger than a spa, buy 3 inch tablets. They cost less per pound of chlorine and you handle them less often. A 25 lb bucket of 3 inch trichlor tablets held roughly 50 tablets and ran us about $85 to $110 at big box stores in spring 2026, which works out to around $1.70 to $2.20 per tablet.
+A 25-pound bucket of 3-inch trichlor tablets runs about $34 to $50 at major retailers like Walmart as of 2026, which works out to a modest per-week cost for a typical residential pool run at one to two tablets weekly across a season. That's usually cheaper per ppm of chlorine than liquid chlorine bought in small jugs, though liquid chlorine bought in bulk (5-gallon "chlorinating liquid" from a pool store) often closes that gap. The real cost delta shows up later in the season: once CYA climbs past the useful range, you're paying for a partial drain, a CYA reducer, or extra shock treatments just to get sanitizing power back, costs a liquid-only or salt-generator pool doesn't carry.
 
-How to use pool chlorine tablets: dosing rates
+## How do tablets compare to liquid chlorine, dichlor, or a salt system?
 
-The working rule: one 3 inch tablet per 5,000 gallons of pool water per week during swim season. A 10,000 gallon above ground pool takes 2 tablets. A 20,000 gallon inground takes 4. Hot weather, heavy bather loads, and pools in full sun can push that up by a tablet.
+Liquid chlorine (sodium hypochlorite) contains no cyanuric acid at all, so it never contributes to the CYA creep problem, but it's unstabilized, meaning UV light burns it off within a few hours outdoors unless the pool already carries some CYA from another source. It's also more alkaline and has a shorter shelf life than tablets. Dichlor, a granular stabilized chlorine, is handy for spas and startup dosing but adds even more CYA per unit of chlorine than trichlor does, so it isn't a fix for the CYA problem either.
 
-![](/media/73f45567419a2113b2a329513efc19cef6ebb412.png)
+A salt chlorine generator produces unstabilized chlorine on-site through electrolysis, which sidesteps the tablet CYA problem entirely for ongoing sanitizing, though most salt-system pools still add a small dose of CYA once at pool opening (via granular stabilizer, not tablets) so the generator's own chlorine output doesn't burn off in sunlight either. In practice, a lot of well-run residential pools use tablets for steady baseline sanitizing and rotate in unstabilized liquid chlorine or shock for CYA-neutral top-ups, rather than committing to one method exclusively.
 
-*Figure 1. Typical weekly 3 inch tablet counts by pool volume. Treat these as starting points and adjust off your test strip, not the chart.*
+## What are the real safety risks with chlorine tablets?
 
-Dosing math check: one 8 oz trichlor tablet at 90 percent available chlorine delivers roughly 5.4 ppm of free chlorine to 10,000 gallons once fully dissolved. Spread over a week, that replaces typical daily losses of 1 to 2 ppm in a stabilized pool. The rule of thumb holds up when you run the numbers, which is why it has survived decades of pool store whiteboards.
+[Pool chemicals sent over 4,500 people to US emergency rooms in a typical year, according to CDC's 2019 surveillance data](https://www.cdc.gov/healthy-swimming/toolkit/pool-chemical-safety.html), with mishandling, improper storage, and accidental mixing among the leading causes. Trichlor tablets are a strong oxidizer: they must never be mixed with other pool chemicals, including other forms of chlorine, in the same container or feeder reservoir, and they should be stored in a cool, dry, ventilated spot away from acids and organic materials. Never crush a tablet into a skimmer basket loaded with other chemical residue, and never handle tablets with wet hands or a wet scoop, since introducing moisture unevenly into a sealed container of trichlor is a known cause of dangerous off-gassing.
 
-Do not guess your gallons. Volume errors are the number one reason tablet dosing goes wrong. If you have never calculated yours, our walkthrough at ClearCove Pools/pool-chemical-calculator shows the volume formulas, and the free tool at ClearCove Pools/calculator does the arithmetic for you.
+Floating dispensers and inline tablet feeders are the standard, safer way to dose tablets, since they control dissolution rate and keep concentrated acidic runoff away from direct contact with liner or plaster. Dropping a loose tablet straight into the skimmer or letting one sit on the pool floor undissolved can bleach or etch the surface directly beneath it.
 
-Feeder vs floater vs skimmer
+## How do you actually test for cyanuric acid at home?
 
-Where you put the tablets matters as much as how many you use. There are three common methods and one of them can wreck your equipment.
+A standard 5-way or 7-way test strip usually gives you a rough CYA reading, but the more reliable home method is the "turbidity" or dot test, sold as a small kit where you fill a tube with pool water and reagent, then read the number at the point where a black dot at the bottom disappears from view. Test CYA once a month during swim season, and again whenever chlorine seems to be underperforming despite a normal free-chlorine reading, since that combination is the classic sign of stabilizer creep rather than a chlorine shortage.
 
-Inline or offline chlorinator (best)
+Pool stores will also run a free water test that includes CYA, which is worth doing once at the start of the season and again mid-season if you're tablet-only, simply to catch the climb before it turns into a full drain.
 
-An automatic chlorinator plumbs into the return line after the filter and heater. You load a stack of tablets, set a dial that controls water flow over them, and it feeds chlorine only when the pump runs. Acidic water exits into the pool, not into your equipment. Units run about $40 to $130 plus install. This is what we run and what we recommend for any pool with a pump on a schedule.
+## Does pool shock affect cyanuric acid?
 
-Floating dispenser (fine)
+It depends which shock you use. Calcium hypochlorite (cal-hypo) shock and sodium hypochlorite-based shock both add zero cyanuric acid, which makes them a useful way to boost chlorine for a party or an algae bloom without adding to the CYA problem. Dichlor-based "shock" products, by contrast, are stabilized and will add CYA along with the chlorine, working against you if you're already tablet-heavy. Check the active ingredient on the bag, not just the word "shock" on the front label, before you buy.
 
-A floater is a $10 to $20 plastic buoy with an adjustable vent. It works, with two caveats. It can park against a wall or ladder and bleach a spot, so tie it off away from surfaces if your pool has a liner. And it keeps dissolving when the pump is off, so distribution is uneven. Acceptable for above ground pools and as a vacation backup.
+## Bottom line
 
-Skimmer basket (risky, and here is why)
+Tablets are a fine, low-effort baseline sanitizer, and the dosing math is straightforward: about one tablet per 10,000 gallons weekly holds free chlorine in the 1 to 4 ppm range. The tradeoff you're accepting is a steady cyanuric acid climb that most owners don't notice until chlorine "stops working" by mid to late season. Test CYA at least once a month, plan on a partial drain or a CYA reducer once you approach 50 ppm, and consider rotating in unstabilized liquid chlorine rather than running tablets as your only source of sanitizer year-round.
 
-Tossing tablets straight into the skimmer is common and we understand the appeal. The suction pulls water past the tablet, it dissolves fast, and there is nothing to buy. The problem shows up when the pump turns off. The tablet keeps dissolving into the small volume of still water sitting in the skimmer and pipes, and that water can drop below pH 3. When the pump kicks back on, that slug of acid gets pulled through your pump seals, heater core, and any metal fittings. Copper heat exchangers corrode, seals harden, and the damage bills dwarf what a chlorinator costs. If you run your pump 24/7 the risk shrinks, but almost nobody does. Skip the skimmer.
+## FAQ
 
-The CYA buildup problem
+**How many chlorine tablets do I need per week?**
+Most manufacturers recommend one 3-inch tablet per 10,000 gallons of pool water per week to maintain a free chlorine level of 1 to 4 ppm. Hot weather, heavy swimmer traffic, and high UV exposure all push that number up; a pool that's shaded and lightly used can sometimes stretch a tablet further.
 
-Here is the part the bucket label does not explain. Every 1 ppm of free chlorine you add with trichlor also adds about 0.6 ppm of cyanuric acid. Chlorine gets used up and leaves the water. CYA does not. It only leaves through splash out, backwashing, and water replacement.
+**Do chlorine tablets raise cyanuric acid too high?**
+They can, if used as the only source of chlorine season after season without any dilution. Each tablet adds cyanuric acid alongside chlorine, and CYA has no natural breakdown path, so it accumulates every week you add tablets. Testing monthly and diluting with a partial drain once CYA nears 50 ppm keeps it from climbing out of the useful range.
 
-Run the season math on a 15,000 gallon pool: 3 tablets a week for 20 weeks is 60 tablets, roughly 30 lbs of trichlor. That adds on the order of 215 ppm of chlorine over the season, and with it about 130 ppm of CYA. If you started at the ideal 30 to 50 ppm range, you can end the summer over 120 ppm.
+**Are chlorine tablets safe to touch or handle directly?**
+Handle them with dry hands or a dry scoop only, and never with wet gloves or a wet scoop, since introducing moisture unevenly into a sealed container of trichlor is a known cause of dangerous off-gassing. Store tablets in their original sealed container, away from other pool chemicals and out of children's reach.
 
-Why that matters: as CYA climbs, it binds more of your chlorine and slows its kill speed. A pool at 2 ppm free chlorine and 30 ppm CYA sanitizes fine. The same 2 ppm at 120 ppm CYA can struggle against algae even though the test strip looks identical. Pool techs call this creeping condition chlorine lock, and the practical fix is the same either way.
+**Can you mix chlorine tablets with liquid chlorine or shock?**
+Not directly in the same container or feeder. Trichlor tablets and other chlorine forms (liquid chlorine, cal-hypo shock) can react dangerously if combined concentrated. It's fine to use both in the same pool on different days through separate application methods; the danger is direct contact between concentrated forms.
 
-Managing CYA
+**What's a normal cyanuric acid level for a residential pool?**
+Most pool chemistry guidance puts the useful residential range at 30 to 50 ppm for a stabilized (tablet-fed) pool, with CDC's Model Aquatic Health Code capping commercial pools at 15 ppm specifically during fecal-contamination response. Above roughly 50 ppm, added chlorine loses effectiveness faster than the UV protection benefit justifies.
 
-  - Test CYA monthly during tablet season. Most strips read it, and any pool store will test a water sample free.
+<!-- humanizer tell-audit: first draft used "it's crucial to note" before the CYA math (cut), had a negative-parallelism line ("it's not just about chlorine, it's about stabilizer" - rewritten to a direct statement), and closed with a vague-authority phrase ("experts agree tablets are convenient" - replaced with the CDC-sourced ED-visit stat instead). Final pass confirmed zero em dashes and zero en dashes. -->
 
-  - Above about 70 to 80 ppm, start substituting liquid chlorine (which adds zero CYA) for some of your tablet feed.
-
-  - Above about 100 ppm, partially drain and refill. Diluting is the only practical way to lower CYA. Draining a third of the water cuts CYA by roughly a third.
-
-  - At opening each spring, test CYA before you buy the season's chemicals. Our checklist at ClearCove Pools/chemicals-needed-open-pool covers the full spring sequence.
-
-Tablets vs liquid chlorine vs salt systems
-
-Tablets are not the only way to chlorinate, and the honest answer is that most well run pools use two methods. Here is how the options compare in practice.
-
-Liquid chlorine (sodium hypochlorite, usually 10 to 12.5 percent) adds zero CYA and works instantly. The downsides: it degrades on the shelf, loses potency in a hot garage within weeks, and it needs daily or every other day dosing because nothing meters it out. Cost per ppm is similar to tablets when bought fresh. It is the right tool for shocking and for late season chlorination once CYA has climbed.
-
-Cal hypo granules run about 65 to 73 percent available chlorine and add calcium instead of CYA. Fine for shocking pools with soft fill water, a bad idea for pools already fighting high calcium hardness and scale.
-
-Salt chlorine generators make chlorine from dissolved salt as the water passes an electrolytic cell. Upfront cost is $800 to $1,700 installed, cells last 3 to 7 years, and you still need CYA in the water and occasional liquid chlorine backup. Owners love the steady output. Just know a salt pool is still a chlorine pool, with the same 1 to 4 ppm target and the same testing routine.
-
-Our take after years of running all three: tablets for baseline feed in the first half of the season, liquid for shocks and for the back half of the season when CYA is up, and salt only if you are ready for the upfront spend.
-
-Weekly tablet routine that actually works
-
-1.  Test the water twice a week: free chlorine, pH, and alkalinity minimum. Add CYA monthly.
-
-2.  Top up the chlorinator or floater to your tablet count for your volume.
-
-3.  If free chlorine trends below 1 ppm, open the feeder dial one notch or add a tablet. Trending above 3 ppm, close it a notch.
-
-4.  Check pH. Tablet pools drift acidic, so expect to add small doses of soda ash or baking soda now and then to hold pH 7.2 to 7.8 and alkalinity 80 to 120 ppm.
-
-5.  Shock with liquid chlorine after storms, parties, or any algae tint. Do not stack extra tablets to shock, that just accelerates CYA buildup.
-
-Handling and storage safety
-
-Trichlor is an oxidizer and it deserves respect. Never mix tablets with any other chemical, especially cal hypo shock. Trichlor plus cal hypo can react violently, and there are documented fires and toxic gas releases from mixed chlorine products in storage. Never add water to a bucket of tablets. Store the bucket sealed, dry, off the ground, away from gasoline and fertilizer, and out of reach of kids. Use dry hands or gloves, and wash up after handling. If you smell strong chlorine gas from a wet bucket, back away and ventilate first.
-
-Common tablet mistakes we see every summer
-
-  - Buying by price alone. Bargain tablets are sometimes padded with fillers and binders that cloud water. Check the label: it should read 99 percent trichloro-s-triazinetrione for a quality tablet.
-
-  - Ignoring the pump schedule. An inline chlorinator only feeds while water moves. If you cut pump hours to save on electricity, your chlorine feed drops with it, so retest after any schedule change.
-
-  - Stacking tablets to fight algae. An algae bloom needs a shock dose now, not a slow feed. Tablets cannot spike chlorine fast enough, and the extra pucks just pile on CYA.
-
-  - Skipping winter storage rules. A half used bucket left in a humid shed cakes into a solid block and off gasses. Sealed, cool, and dry, tablets keep 3 to 5 years.
-
-  - Trusting a season old volume number. New liner, different fill line, or a solar cover changing evaporation can all shift your effective volume. Recheck it at opening; the spring checklist at ClearCove Pools/chemicals-needed-open-pool starts there for a reason.
-
-What tablets cost per season
-
-|                         |                      |                                |                                |
-| ----------------------- | -------------------- | ------------------------------ | ------------------------------ |
-| **Pool size (gallons)** | **Tablets per week** | **Tablets per 20 week season** | **Approx. season cost (2026)** |
-| 10,000                  | 2                    | 40                             | $70 to $90                     |
-| 15,000                  | 3                    | 60                             | $105 to $130                   |
-| 20,000                  | 4                    | 80                             | $140 to $175                   |
-| 25,000                  | 5                    | 100                            | $175 to $220                   |
-
-Costs assume roughly $1.75 to $2.20 per 3 inch tablet bought in 25 lb buckets. Add a jug or two of liquid chlorine per month for shocking. Tablets handle the baseline, liquid handles the spikes. That split keeps CYA in check and total spend reasonable.
-
-Get the dose right for your pool
-
-Every number above depends on your actual gallons and your current test readings. The free chemical calculator at ClearCove Pools/calculator takes your pool volume and test results and returns exact doses for chlorine, pH, alkalinity, and stabilizer, so you stop rounding and start measuring.
-
-If you want the whole season mapped out, our $19 pool care guide at ClearCove Pools/guide covers opening, weekly maintenance, algae recovery, and closing in one printable plan. It is the checklist we hand friends who just bought a house with a pool.
-
-FAQ
-
-How many chlorine tablets does a 15,000 gallon pool need?
-
-Three 3 inch tablets per week is the standard starting point, one per 5,000 gallons. Verify with a test strip after a week. If free chlorine sits below 1 ppm, add a tablet or open the feeder; above 3 ppm, cut back. Heat waves and pool parties usually justify a temporary fourth tablet.
-
-Can I put chlorine tablets directly in the pool?
-
-No. A tablet sitting on the floor dissolves into a small acidic zone that bleaches vinyl liners and etches plaster in a ring around it. Use an inline chlorinator or a floating dispenser so the tablet dissolves into moving water instead of one spot.
-
-How long does a 3 inch chlorine tablet last?
-
-Typically 3 to 7 days. Warm water, high flow through a feeder, and a wide open vent all speed dissolution. In a spa or hot tub the same tablet can be gone in 2 days, which is one reason 1 inch tablets exist for small vessels.
-
-Do chlorine tablets raise or lower pH?
-
-They lower it. Trichlor is strongly acidic, around pH 2.8 in solution, so tablet fed pools drift down in both pH and total alkalinity over weeks. Test twice weekly and hold pH at 7.2 to 7.8 and alkalinity at 80 to 120 ppm, adding soda ash or baking soda as needed.
-
-What happens if CYA gets too high from tablets?
-
-Chlorine keeps registering on tests but kills slower, and algae can bloom at readings that look safe. Once CYA passes about 100 ppm, partially drain and refill to dilute it, then shift part of your routine to liquid chlorine. Trichlor adds about 0.6 ppm CYA for every 1 ppm of chlorine, so buildup is guaranteed, not a maybe.
-
-Bottom line
-
-Tablets are the easiest way to hold a steady 1 to 4 ppm of chlorine: one 3 inch trichlor tablet per 5,000 gallons per week, fed through a chlorinator or floater, never the skimmer. Watch pH monthly and CYA all season, and switch some feed to liquid chlorine once stabilizer passes 70 ppm. Run your exact numbers at ClearCove Pools/calculator before you buy the bucket.
-
-*The ClearCove Pools Team (Trilot) · Updated 2026-07-12*
+By the ClearCove Pools team (Trilot). Updated July 2026.

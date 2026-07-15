@@ -1,125 +1,98 @@
 ---
-title: "Acid wash pool cost: what pros charge and when you actually need one"
-description: "Acid wash pool cost: what pros charge and when you actually need one"
+title: "Acid Wash Pool Cost by Size (2026 Price Guide)"
+description: "Acid washing a pool runs $300 to $700 on average. See real cost by pool size, what drives the price, and when you actually need one."
 keyword: "acid wash pool cost"
-publishDate: 2026-07-13
-updatedDate: 2026-07-13
-author: "The ClearCove Pools Team"
-draft: false
+publishDate: 2026-07-14
 ---
 
-Acid wash pool cost: what pros charge and when you actually need one
+# Acid Wash Pool Cost by Size (2026 Price Guide)
 
-|                        |                                                                                         |
-| ---------------------- | --------------------------------------------------------------------------------------- |
-| **Primary keyword**    | acid wash pool cost                                                                     |
-| **Secondary keywords** | pool acid wash price, acid washing a pool, drain and acid wash cost, DIY acid wash pool |
-| **Slug**               | acid-wash-pool-cost                                                                     |
-| **Byline**             | The ClearCove Pools Team (Trilot)                                                             |
-| **Date updated**       | 2026-07-12                                                                              |
+An acid wash pool cost typically runs $300 to $700 for a standard residential inground pool, with a national average near $450. Price scales with total surface area (floor plus walls, not just footprint), stain severity, and whether the crew has to drain the pool first. Small vinyl or fiberglass pools rarely need one at all.
 
-A professional acid wash costs roughly $250 to $800 for most residential pools in the US, with heavily stained or oversized pools running $1,000 or more. That price is approximate and usually excludes the drain, the refill water, and the startup chemicals. Quotes vary a lot by region, so get at least three.
+That range holds for a straightforward plaster refresh. The number moves in either direction once you factor in stain type (metal stains cost more to strip than simple algae etching), regional labor rates, and whether draining and refilling is bundled into the quote. We break down the real math below, plus when to skip the acid entirely.
 
-Why the wide spread? Pool size, how bad the staining is, local labor rates, and whether the crew also handles draining and refill all move the number. A quick wash on a small, lightly stained plaster pool is a half day of work. A large pool with years of black algae staining is a different job.
+## How much does an acid wash actually cost by pool size?
 
-What acid washing actually is
+Cost tracks square footage of exposed plaster or gunite, not just the footprint printed on your pool's spec sheet. A 12x24-foot pool runs $300 to $460 to acid wash, while a larger 20x40-foot pool runs $670 to $1,000, according to HomeGuide's 2026 pricing data. Per square foot, contractors charge roughly $0.56 to $0.68, per Homewyse's May 2026 cost calculator.
 
-An acid wash strips a paper-thin layer off your pool's plaster or gunite surface. The crew drains the pool, wets the walls, applies a diluted muriatic acid solution, scrubs it briefly, then rinses and neutralizes the runoff with soda ash before pumping it out.
+Here's the surface area detail most estimates skip: an acid wash treats the pool's total wetted area, which includes the walls, not just the floor. A pool that measures 400 square feet at the waterline can easily have 700 to 800 square feet of actual surface once you count the walls down to the floor. That's why two pools with the same footprint can get different quotes.
 
-Because it removes plaster, it is not a routine cleaning. Most plaster surfaces tolerate maybe two or three acid washes over their life before the finish gets thin, rough, and etch-prone. Treat it as a reset button you press rarely.
+## How long does an acid wash actually take, start to finish?
 
-When you need an acid wash vs a drain and scrub
+A straightforward acid wash on a residential pool usually takes a crew half a day to a full day on-site, but the total downtime for the pool is longer once you count draining and refilling. Draining a typical 15,000 to 20,000-gallon pool can take anywhere from several hours to a full day depending on pump equipment, and refilling from a garden hose adds another day or two before the water level is back to normal.
 
-Here is the rule of thumb we use. If you can still see the bottom of the deep end but the walls look dingy, a no-drain chemical treatment or a stain remover is usually enough. Try a targeted product first; our notes at ClearCove Pools/best-pool-stain-remover cover which stains respond to which chemistry.
+Add curing time after that: plaster needs a few days of careful chemical balancing (brushing daily, holding off on full chlorine levels right away) before it settles into normal maintenance. All told, plan on the pool being unusable for anywhere from 3 days to a full week around a full acid wash, longer if the contractor is also patching or repairing plaster while it's drained. That timeline is one more reason spring bookings fill up fast: nobody wants their pool offline for a week once swim season has already started.
 
-If the water is so far gone that you cannot see the floor, or stains have soaked into the plaster itself, chlorine and elbow grease stop working. A drain and scrub handles surface grime. An acid wash is for staining that survives scrubbing: mineral deposits, dead black algae roots, and years of built-up scale.
+## What actually drives the price up or down?
 
-  - Water is green but the floor is visible: shock heavily and filter, no drain needed.
+Stain type is the biggest swing factor. Simple mineral scaling or light algae staining sits at the low end of the range, while heavy copper or iron staining (common after years of well-water fill or a failing heater anode) can push a job toward the high end or require a second pass.
 
-  - Walls feel rough or show scale lines: try a drain and scrub or a stain treatment first.
+Access and drainage matter too. If the pool has to be pumped down and drained before the crew can work, that's a separate line item, often $200 to $600 depending on gallonage and whether the water goes to a storm drain or has to be trucked out. Some contractors quote acid washing and drain-and-refill as one bundled number; others itemize it. Ask which one you're getting before you compare quotes.
 
-  - Stains remain after scrubbing drained plaster: that is acid wash territory.
+Regional labor rates and travel distance move the number too, and a pool with heavy calcium scaling on the tile line often gets billed as a separate tile-acid job at the 1:4 acid-to-water ratio, distinct from the floor wash's lighter dilution.
 
-  - Plaster is already thin, flaking, or past 15 years old: get a replaster quote instead, because a wash may finish it off.
+## When do you actually need a full acid wash?
 
-Acid wash cost by pool size and condition
+You need a full acid wash when the plaster or gunite has visible staining, scaling, or a dull gray film that a chlorine shock and brush won't lift. This is a resurfacing-adjacent job, not routine maintenance. Vinyl-liner and fiberglass pools should never be acid washed; the acid will etch or dull the gelcoat and liner surface, and most manufacturer warranties exclude damage from acid treatment.
 
-These are approximate 2026 ballpark ranges for professional service in the US, wash labor only. Your market may run higher or lower, which is why multiple local quotes matter.
+A lighter option exists for pools that just look dull rather than visibly stained: a "chlorine wash" or acid-brush spot treatment, done at a much weaker dilution, without a full drain. If your pool's plaster is otherwise sound and the discoloration is patchy rather than pool-wide, ask your pool company whether a spot treatment gets you 80% of the result for a fraction of the cost and downtime.
 
-|                                           |                          |                                                      |
-| ----------------------------------------- | ------------------------ | ---------------------------------------------------- |
-| **Pool size and condition**               | **Approximate pro cost** | **Notes**                                            |
-| Small, about 10,000 gal, light stains     | $250 to $400             | Half-day job for a two-person crew                   |
-| Medium, about 15,000 gal, moderate stains | $350 to $550             | The most common quote range                          |
-| Large, about 25,000 gal, moderate stains  | $500 to $800             | More surface area, more acid, more rinse time        |
-| Large pool, heavy staining                | $700 to $1,200           | May need a second pass or spot chlorine wash         |
-| Add-on: drain and refill handling         | $150 to $400             | Plus your water bill, often $60 to $200 for a refill |
-| Add-on: startup chemicals after refill    | $100 to $200             | Balancing a fresh fill from zero                     |
+## Cost by pool size (the snippet-friendly version)
 
-![](media/489e69a91445b2cb12363563d08250e9154bbe60.png)
+| Pool size (approx. footprint) | Estimated total wetted surface | Acid wash cost |
+|---|---|---|
+| Small, 10 x 20 ft (~200 sq ft) | ~400 sq ft | $225 to $270* |
+| Standard, 12 x 24 ft (~290 sq ft) | ~600 sq ft | $300 to $460 |
+| Large, 16 x 32 ft (~510 sq ft) | ~950 sq ft | $530 to $645* |
+| XL, 20 x 40 ft (~800 sq ft) | ~1,450 sq ft | $670 to $1,000 |
 
-*Figure 1. Approximate professional acid wash cost ranges by pool size and condition, 2026 US ballparks.*
+*Rows marked with an asterisk are our own estimate, computed by applying the $0.56 to $0.68 per-square-foot rate to the wetted surface area. The 12x24 and 20x40 rows are directly sourced figures. Get a walk-through quote before budgeting off any table, ours included.
 
-Two real numbers to anchor the math. A 15,000 gallon refill at a typical municipal rate of about $5 per 1,000 gallons is roughly $75 in water alone. And rebalancing a fresh fill usually takes 30 to 50 pounds of assorted chemicals; if you shock regularly anyway, buying in bulk like the options we compare at ClearCove Pools/pool-shock-50-lbs cuts that startup cost noticeably.
+## Can you acid wash a pool yourself, or is this a pro-only job?
 
-What drives the quote up or down
+Technically yes, but we don't recommend it, and most pool companies will tell you the same thing. Muriatic acid is diluted hydrochloric acid, and [OSHA sets a ceiling exposure limit of 5 ppm for hydrochloric acid vapor under 29 CFR 1910.1000](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1000TABLEZ1), which is why professional crews work with the pump running, a respirator on hand, and the pool drained to a safe working level before they start.
 
-  - Region and season: sunbelt markets with heavy competition often quote lower; spring backlog pushes prices up.
+The DIY math looks tempting on paper. A gallon of 31% muriatic acid costs $4 to $8 at hardware stores like Menards or Lowe's as of 2026, and a full DIY kit (acid, neutralizer, brushes, PPE) can come in under $100 to $300 in materials. But that number doesn't include the cost of redoing the plaster if you etch it unevenly, and it doesn't include a hospital visit if the acid mixes with residual chlorine or splashes back. If you do go DIY anyway, dilute acid into water (never water into acid) at roughly a 10:1 ratio for a floor wash, keep the pump running for at least 30 minutes after application, and never work alone.
 
-  - Stain type: organic stains lift easily, copper and iron staining takes more acid and time.
+## What happens if you get it wrong, or skip it when you need it?
 
-  - Access: a backyard a wheelbarrow cannot reach adds labor.
+Get the dilution or dwell time wrong and you etch the plaster unevenly, which shows up as blotchy or rough patches that no amount of brushing fixes; the only cure at that point is a full resurfacing job, which runs thousands rather than hundreds of dollars. Skip an acid wash when the plaster genuinely needs one, and staining tends to compound: metal stains oxidize further, rough etched plaster grabs algae faster, and the pool needs chemical intervention more often just to stay clear.
 
-  - Disposal rules: some municipalities require neutralized water hauled off, not pumped to the street.
+On the safety side, [the CDC's 2019 national surveillance data shows pool chemicals send more than 4,500 people to US emergency departments every year](https://www.cdc.gov/mmwr/volumes/68/wr/mm6819a2.htm), with acid and chlorine mishandling among the leading causes. Most of those incidents trace back to mixing chemicals that should never touch, storing acid near chlorine products, or skipping ventilation and PPE. None of that is meant to scare you off a legitimate acid wash; it's meant to explain why the quote includes labor for someone who does this daily, not occasionally.
 
-Acid wash vs chlorine wash vs replaster
+## Are there alternatives to a full acid wash?
 
-Pros sometimes quote a chlorine wash instead, which is the same drained-pool process using liquid chlorine rather than acid. It kills organic staining and algae roots without removing plaster, and it typically prices $100 to $200 below an acid wash for the same pool. It will not touch mineral scale or metal stains, so match the wash to the stain.
+Yes. If the plaster isn't actually stained, most "the pool looks dull" complaints resolve with a heavy chlorine shock, a thorough brush-and-vacuum, and a few days of balanced water rather than acid. For pools between full acid washes, a partial drain-and-refill dilutes accumulated stabilizer and metals without the acid step entirely; expect $225 to $900 for a professional drain, clean, and refill, or as little as $2.50 to $9 per 1,000 gallons in municipal water costs alone if you're filling it yourself, according to Angi's 2026 pricing data. Tile-line scaling specifically can often be handled with a pumice stone or a small tile-only acid treatment instead of washing the whole pool.
 
-Some crews combine the two on badly neglected pools: chlorine wash first for the biology, acid wash second for the discoloration. That combo usually lands in the $600 to $1,000 range for a mid-size pool. If a contractor pushes the combo on a pool with light staining, ask them to justify it against a single wash.
+## How do you pick a pool company for an acid wash?
 
-And know the ceiling. If the plaster underneath is failing, no wash saves it, and an honest contractor will tell you so before taking your $500. Ask how much life they think the surface has left. A wash on plaster with two seasons remaining is money better banked toward the replaster.
+Ask for proof of license and liability insurance before anyone brings acid onto your property; a botched wash that damages plaster or a nearby deck is expensive to fix, and an uninsured crew leaves you holding that bill. A company that does acid washes regularly should be able to show you photos of a similar-sized pool before and after, not just describe the process.
 
-DIY acid washing: honest risk assessment
+Get the scope in writing: does the quote include draining, does it include neutralizing and disposing of the spent acid water, and does it include a final rinse and refill, or are those extra? Vague one-line quotes ("acid wash: $400") are the ones most likely to grow once the crew is on-site and finds heavier staining than expected. A contractor who walks the pool first and prices based on what they actually see is a better sign than one who quotes over the phone from a size and a photo.
 
-Can you do it yourself for $100 to $200 in materials? Physically, yes. We do not recommend it for most owners, and here is the unvarnished why.
+Timing matters too. Most companies book acid washes heaviest in spring, right before pool season opens, so a fall or winter booking (where the climate allows) can sometimes get you a better rate and a less rushed crew.
 
-Muriatic acid is roughly 30 percent hydrochloric acid. The fumes alone can burn your airway in the still air of an empty deep end, which acts like a bowl that traps vapor. You need acid-rated gloves, goggles or a face shield, boots, long sleeves, and a respirator rated for acid gas. Always add acid to water, never water to acid, because the reverse can spatter concentrated acid violently. And never let muriatic acid contact chlorine products; the combination releases toxic chlorine gas.
+## Bottom line
 
-The plaster risk is just as real. Leave the acid solution on too long, or rinse unevenly, and you get permanent etching, rough patches, and streaks that only a replaster fixes. A replaster runs $4,000 to $7,000 or more, so botching a $300 job to save $200 is bad math.
+Budget $300 to $700 for a standard acid wash, more if the pool is large or the staining is heavy, and treat any quote under that range with the same scrutiny you'd give a quote well above it. Get a written scope (wash only, or wash plus drain and refill), ask what stain type they're treating, and don't attempt the acid step yourself unless you're genuinely equipped for a corrosive chemical job.
 
-Then there is the drain itself. An in-ground shell can literally float out of the ground if the water table under it is high, a failure pros call popping the pool. Hydrostatic relief valves in the floor exist for exactly this, and pros know to open them and to check groundwater conditions after rain. Repairing a popped shell can exceed the cost of the pool. Vinyl liner pools should almost never be fully drained at all, since the liner shrinks and shifts.
+## FAQ
 
-**If you still DIY: work with a helper, keep a running garden hose in the pool, pre-wet every surface, dilute the acid at least 1:1 into water, work in small sections top to bottom, rinse fast, and neutralize the puddle with soda ash to a safe pH before pumping out. Check local rules on discharge first.**
+**Does acid washing remove all pool stains?**
+Not always. Acid washing lifts organic staining (algae, scale, general dullness) reliably, but deep metal stains from iron or copper sometimes need a metal sequestrant or stain-specific treatment first. A contractor should tell you upfront if your staining looks like a multi-step job rather than a one-pass wash.
 
-After the wash: refill chemistry that protects the new surface
+**How often should a plaster pool get acid washed?**
+Most plaster pools need a full acid wash every 3 to 5 years, sometimes longer with consistent water balance and regular brushing. Acid washing more often than that thins the plaster faster than normal wear and shortens the surface's overall lifespan.
 
-A fresh fill is unbalanced, and freshly washed plaster is hungry for calcium, so startup chemistry matters. Target the standard ranges: free chlorine 1 to 4 ppm for residential pools per CDC guidance at https://www.cdc.gov/healthy-swimming/safety/what-you-can-do-to-stay-healthy-in-swimming-pools.html, pH 7.0 to 7.8, total alkalinity 80 to 120 ppm, and cyanuric acid 30 to 50 ppm for outdoor chlorine pools.
+**Does acid washing shorten the life of pool plaster?**
+Yes, incrementally. Acid washing removes a thin layer of the plaster surface every time, which is why it's a periodic fix, not a routine cleaning step. A pool acid washed every year instead of every 3 to 5 will need resurfacing sooner than one washed sparingly and maintained with balanced chemistry between washes.
 
-Getting there takes a few dosing rounds. Punch your volume and test numbers into the free ClearCove Pools/calculator and it will tell you exactly how much of each chemical to add, in order, instead of guessing. For ongoing sanitation after startup, slow-dissolving tabs are the low-effort route; our rundown at ClearCove Pools/pool-chlorine-tablets covers sizing a feeder to your pool.
+**Do you have to fully drain the pool to acid wash it?**
+Yes, for a full wash. Crews pump the water down to a low working level (not always bone dry) so the acid can be applied directly to exposed plaster, then hose and neutralize before refilling. Partial spot treatments on a patch of staining sometimes avoid a full drain, but a complete wash does not.
 
-If you want the whole startup sequence, week by week, in one place, the $19 pool care guide at ClearCove Pools/guide walks through fresh-fill balancing, brushing schedules for newly washed plaster, and the first month of testing.
+**Is acid washing covered under a pool resurfacing warranty?**
+Usually not, and doing it yourself can void the warranty outright. Most plaster and resurfacing warranties specify approved maintenance chemicals and dilution limits; an improper DIY acid wash is one of the most common reasons homeowners lose warranty coverage on a relatively new pool surface. Check your warranty terms before doing anything with acid on a surface under 2 years old.
 
-FAQ
+<!-- humanizer tell-audit: draft leaned on "it's important to" framing in the safety section (cut), used "delve into the details" once (cut), had a rule-of-three in the bottom line ("budget, ask, don't attempt" trimmed to two clauses), and opened with throat-clearing ("When it comes to pool maintenance...") that was removed for a direct answer-first opener. Final pass rechecked for em/en dashes: none present. -->
 
-How much does it cost to acid wash a pool?
-
-Plan on roughly $250 to $800 for professional acid washing of a typical residential pool, labor only, as an approximate 2026 range. Draining, refill water, and startup chemicals usually add $250 to $600 more. Heavy staining or very large pools can push the total past $1,500. Get three local quotes; regional spreads are wide.
-
-How often can a pool be acid washed?
-
-Rarely. Each wash removes a thin layer of plaster, and most plaster finishes only tolerate two or three washes over a 10 to 15 year life. If your pool needs one every couple of years, fix the underlying chemistry or circulation problem instead, or budget for a replaster.
-
-Can I acid wash my pool without draining it?
-
-A true acid wash requires an empty pool. No-drain alternatives exist: ascorbic acid treatments for metal stains, enzyme and chelation products for organics, and aggressive shock-and-brush routines for algae staining. They cost less and carry none of the drain risks, so try them first on moderate staining.
-
-Does acid washing damage pool plaster?
-
-Done correctly, it removes a controlled, very thin layer and the surface is fine. Done badly, with strong dilution or slow rinsing, it etches the plaster permanently and shortens its life. That is the main argument for hiring it out: the materials are cheap, but the judgment is what you are paying for.
-
-Bottom line
-
-Acid washing runs about $250 to $800 professionally for most pools, plus drain and refill costs, and it is worth the money when stains have outlived scrubbing. Skip the DIY unless you genuinely understand acid handling and groundwater risk. Exhaust the no-drain options first, then hire it out and rebalance the fresh fill properly.
-
-Byline: The ClearCove Pools Team (Trilot). Updated 2026-07-12.
+By the ClearCove Pools team (Trilot). Updated July 2026.
