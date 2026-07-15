@@ -8,7 +8,7 @@
   "lemonsqueezy": { "checkoutUrl": "https://PLACEHOLDER.lemonsqueezy.com/checkout" },
   "cfBeaconToken": "",
   "magnet": { "file": "/downloads/weekly-pool-care-schedule.pdf", "doneMessage": "You're in - the 10-Minute Weekly Pool Care Schedule is downloading now." },
-  "author": { "name": "{{AUTHOR_NAME}}", "bio": "{{AUTHOR_BIO}}" },
+  "author": { "name": "the ClearCove Pools team (Trilot)", "bio": "ClearCove Pools is published by the Trilot team. We build free, fact-checked guides, tools, and study resources, verified against the primary sources they cover. More at https://trilot.com." },
   "legalEntity": "Trilot LLC",
   "comingSoon": {
     "promise": "Crystal-clear pool water, without the chemical guesswork. Coming soon.",
