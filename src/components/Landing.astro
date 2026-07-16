@@ -8,7 +8,6 @@
 import site from '../../site.config.json';
 import Base from '../layouts/Base.astro';
 import Tool from './Tool.astro';
-const ls = site.lemonsqueezy.checkoutUrl;
 ---
 <Base
   title="Free Pool Chemical Calculator | ClearCove Pools"
@@ -100,10 +99,12 @@ const ls = site.lemonsqueezy.checkoutUrl;
         <div class="chips"><span>Opening &amp; closing</span><span>Algae recovery</span><span>CYA management</span><span>Salt systems</span><span>Cloudy-water troubleshooting</span></div>
       </div>
       <div class="glass price">
-        <p>Digital handbook</p>
-        <strong><sup>$</sup>19</strong>
-        <a class="btn" href={ls}>Get the Handbook</a>
-        <small>One-time purchase. No subscription. No upsell.</small>
+        <p>Free digital handbook</p>
+        <form class="email compact" data-subscribe method="post">
+          <label class="sr" for="email3">Email address</label>
+          <input id="email3" name="fields[email]" type="email" required placeholder="you@example.com" />
+          <button type="submit">Send Me the Free Handbook</button>
+        </form>
       </div>
     </section>
 
@@ -117,7 +118,6 @@ const ls = site.lemonsqueezy.checkoutUrl;
     </section>
 
     <section class="section byline">
-      <div class="avatar">{'{{AUTHOR_PHOTO}}'}</div>
       <div>
         <p class="eyebrow">Who keeps this current</p>
         <h2>{site.author.name}</h2>
@@ -149,9 +149,9 @@ const ls = site.lemonsqueezy.checkoutUrl;
 
   <footer>
     <a class="brand" href="#top"><span class="wave"></span>ClearCove <b>Pools</b></a>
-    <nav><a href="#tool">Calculator</a><a href="#schedule">Free Schedule</a><a href="#handbook">Handbook</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a></nav>
-    <p>ClearCove Pools earns commissions from qualifying purchases through links on this site — it never changes what we recommend.</p>
-    <small>{site.legalEntity} · © 2026 ClearCove Pools</small>
+    <nav><a href="#tool">Calculator</a><a href="#schedule">Free Schedule</a><a href="#handbook">Handbook</a><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a><a href="/disclosure/">Disclosure</a><a href="/editorial/">Editorial</a></nav>
+    <p>ClearCove Pools earns commissions from qualifying purchases through links on this site — it never changes what we recommend. See our <a href="/disclosure/">affiliate disclosure</a>.</p>
+    <small>© 2026 {site.BRAND}</small>
   </footer>
 </Base>
 
@@ -227,4 +227,3 @@ const ls = site.lemonsqueezy.checkoutUrl;
   @media(max-width:580px){.hero{padding:65px 14px 80px}.hero-card{padding:25px 20px}.hero h1{font-size:43px}form.email{display:grid}.section{padding-top:75px;padding-bottom:75px}.calc-inputs,.calc-results{padding:25px 20px}.proof{flex-direction:column}.byline{grid-template-columns:1fr}.actions{flex-direction:column}footer{grid-template-columns:1fr}footer nav{justify-content:flex-start;display:grid;grid-template-columns:1fr 1fr}}
   @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
 </style>
-                                 

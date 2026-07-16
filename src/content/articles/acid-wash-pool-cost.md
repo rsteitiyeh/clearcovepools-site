@@ -95,4 +95,4 @@ Usually not, and doing it yourself can void the warranty outright. Most plaster 
 
 <!-- humanizer tell-audit: draft leaned on "it's important to" framing in the safety section (cut), used "delve into the details" once (cut), had a rule-of-three in the bottom line ("budget, ask, don't attempt" trimmed to two clauses), and opened with throat-clearing ("When it comes to pool maintenance...") that was removed for a direct answer-first opener. Final pass rechecked for em/en dashes: none present. -->
 
-By the ClearCove Pools team (Trilot). Updated July 2026.
+By the ClearCove Pools team. Updated July 2026.

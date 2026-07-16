@@ -85,4 +85,4 @@ Most pool chemistry guidance puts the useful residential range at 30 to 50 ppm f
 
 <!-- humanizer tell-audit: first draft used "it's crucial to note" before the CYA math (cut), had a negative-parallelism line ("it's not just about chlorine, it's about stabilizer" - rewritten to a direct statement), and closed with a vague-authority phrase ("experts agree tablets are convenient" - replaced with the CDC-sourced ED-visit stat instead). Final pass confirmed zero em dashes and zero en dashes. -->
 
-By the ClearCove Pools team (Trilot). Updated July 2026.
+By the ClearCove Pools team. Updated July 2026.
