@@ -5,8 +5,6 @@ keyword: "copper algaecide for pools"
 publishDate: 2026-07-18
 ---
 
-# Copper algaecide for pools: how it works, staining risk, and when to skip it
-
 Copper algaecide kills algae by disrupting the enzyme systems inside the algae cell, and it works faster than most alternatives against stubborn strains like mustard and black algae. The tradeoff is staining: copper that falls out of solution deposits as blue-green or teal discoloration on plaster, fiberglass, and even vinyl, and it happens fastest when pH climbs above the recommended range.
 
 Whether copper algaecide is the right call for a specific pool depends less on the algae and more on the surface, the water chemistry discipline of the owner, and whether the pool has stained before.
@@ -62,7 +60,5 @@ No. Running both risks pushing total copper well past the 0.3 ppm staining thres
 At 60% concentration, yes, polyquat is one of the two formulas (along with chelated copper) that actually holds up against mustard algae's chlorine-resistant coating. Lower-concentration polyquat sold for routine maintenance is not strong enough.
 
 Bottom line: copper algaecide works fast and stacks well with a chlorine shock, but it stains once levels pass roughly 0.3 ppm and pH drifts up. Balance the water first, use a chelated formula on light surfaces, or skip copper for polyquat if the pool has stained before.
-
-Written by the ClearCove Pools team. Updated July 15, 2026.
 
 <!-- QA tell-audit: cut a "boasts" construction describing chelated copper in the first draft; replaced a vague "experts recommend" line with the specific pH band and its source; verified sentence rhythm varies; zero em/en dashes confirmed. -->

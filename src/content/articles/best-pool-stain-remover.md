@@ -5,8 +5,6 @@ keyword: "best pool stain remover"
 publishDate: 2026-07-17
 ---
 
-# Best pool stain remover: identify the stain first, then treat it right
-
 There is no single "best" pool stain remover because stains fall into three chemically different categories: metal, organic, and mineral scale. Treat a metal stain with chlorine and you'll watch it darken instead of fade. The fix starts with a two-minute test, not a product purchase.
 
 Guessing wrong wastes money and can make things worse. A vitamin C tablet held against the stain for 30 seconds tells you which category you're dealing with before you spend on the wrong chemical.
@@ -62,7 +60,5 @@ Yes. A metal sequestrant added on a regular schedule, roughly every two to four 
 Ascorbic acid treatments work on vinyl the same way they work on plaster since the chemistry is about pulling metal out of the water, not off the surface. Acid washing, however, is a plaster-specific process and should never be used on a vinyl liner.
 
 Bottom line: run the vitamin C test before buying anything. Metal stains need ascorbic acid and a sequestrant, organic stains need shock and brushing, and scale needs acid, and using the wrong one on the wrong stain either does nothing or makes it worse.
-
-Written by the ClearCove Pools team. Updated July 15, 2026.
 
 <!-- QA tell-audit: cut "it's important to note" style throat-clearing from the draft; replaced a bolded-header bullet list with a real table; varied paragraph length; verified zero em/en dashes on final pass. -->

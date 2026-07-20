@@ -5,8 +5,6 @@ keyword: "pool chemical for alkalinity"
 publishDate: 2026-07-18
 ---
 
-# Pool chemical for alkalinity: baking soda math and acid dosing that works
-
 Sodium bicarbonate, plain baking soda, raises total alkalinity at a rate of about 1.5 pounds per 10,000 gallons for every 10 ppm you need to add. Muriatic acid lowers it at roughly 1 quart (32 fl oz) of standard 31.45% acid per 10,000 gallons per 10 ppm removed. Both numbers scale directly with pool size, and both should be staged rather than dumped in all at once.
 
 Total alkalinity is the buffer that keeps pH from swinging after every chemical addition, rain event, or top-off. The target band is 80 to 120 ppm; below that, pH bounces around unpredictably, and above it, pH tends to creep upward on its own and drags scale-forming conditions with it.
@@ -63,7 +61,5 @@ Some chlorine products, particularly cal-hypo and dichlor, carry a mild alkalini
 Not directly to swimmers, but alkalinity above 120 to 150 ppm makes pH resistant to correction and tends to push the water toward cloudiness and scale formation over time.
 
 Bottom line: 1.5 pounds of baking soda per 10,000 gallons raises alkalinity 10 ppm, and 1 quart of 31.45% muriatic acid per 10,000 gallons lowers it 10 ppm. Stage anything bigger than a 20 ppm move across multiple treatments and retest before each one.
-
-Written by the ClearCove Pools team. Updated July 15, 2026.
 
 <!-- QA tell-audit: removed a negative-parallelism sentence ("it's not just about the number, it's about the buffer") from the draft; replaced with a direct definition; confirmed both worked examples recalculate correctly; zero em/en dashes on final scan. -->

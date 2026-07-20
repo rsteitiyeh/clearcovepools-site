@@ -5,8 +5,6 @@ keyword: "chemicals needed open pool"
 publishDate: 2026-07-17
 ---
 
-# Chemicals needed to open a pool: the spring list and exact sequence
-
 Opening a pool takes six chemical categories: alkalinity increaser, pH adjuster, calcium hardness increaser, stabilizer (cyanuric acid), sanitizer, and shock, added in that order with a test and a wait between each one. Add them out of order, especially shock before alkalinity, and you'll spend the first two weeks of the season chasing a reading that won't hold.
 
 The order matters because alkalinity is the buffer that keeps pH stable. Adjust pH before alkalinity is in range and the pH drifts right back within a day, which is the single most common reason a spring opening turns into three trips to the pool store.
@@ -68,7 +66,5 @@ Alkalinity and pH first, since they affect every other reading, then calcium har
 Yes, but not all at once. Space each addition 15 to 30 minutes apart with the pump running and retest before the next one; doing this over a single afternoon is normal, doing it in one dump is how pools end up cloudy.
 
 Bottom line: test first, then work alkalinity, pH, calcium, stabilizer, sanitizer, and shock in that order, with a wait and a retest between each. The sequence protects the money you're spending on each chemical.
-
-Written by the ClearCove Pools team. Updated July 15, 2026.
 
 <!-- QA tell-audit: removed "let's dive into" style signposting from an earlier draft; tightened the alkalinity section to lead with the direct answer; confirmed short paragraphs throughout for ad-slot spacing; zero em/en dashes on final scan. -->

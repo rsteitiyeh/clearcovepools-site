@@ -5,8 +5,6 @@ keyword: "pool chemical calculator"
 publishDate: 2026-07-19
 ---
 
-# Pool chemical calculator: the dosing math explained with worked examples
-
 Every pool chemical calculator, ours included, runs the same underlying mass-balance idea: (pool gallons ÷ 10,000) × (ppm change needed) × the chemical's known dose rate, scaled to whatever ppm increment that chemical is conventionally measured in. Alkalinity, calcium, and CYA rates are published per 10 ppm because owners typically move those numbers in large chunks; chlorine rates are published per 1 ppm because a working chlorine range only spans a few ppm at a time. Same idea, different increment.
 
 Knowing the formula means you can sanity-check any calculator's output, or work the math by hand when you're standing at the pool with a bag of shock and no signal.
@@ -79,7 +77,5 @@ The same mass-balance formula works, but hot tub volumes are far smaller (300 to
 Split it. Every chemical in the table above has a practical per-treatment cap (roughly 1.5 lb/10,000 gal for baking soda, a 20 ppm drop for acid, and similar limits for the rest); stage larger corrections across multiple treatments with a retest between each rather than adding the full calculated amount at once.
 
 Bottom line: every pool chemical calculator runs (gallons ÷ 10,000) × (ppm change ÷ that chemical's ppm increment) × a chemical-specific rate. Get the gallon count and the product's label percentage right, and the rest is arithmetic you can check by hand in under a minute.
-
-Written by the ClearCove Pools team. Updated July 15, 2026.
 
 <!-- QA tell-audit: first draft mislabeled the chlorine dose rate as "per 10 ppm" when the industry convention is per 1 ppm, which would have understated the chlorine dose by 10x; caught it on self-review and rewrote the formula section, table, and worked example to separate chlorine's per-1-ppm convention from the per-10-ppm chemicals; confirmed all four worked examples recompute correctly by hand; zero em/en dashes on final scan. -->

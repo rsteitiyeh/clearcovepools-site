@@ -5,8 +5,6 @@ keyword: "algaecide mustard algae"
 publishDate: 2026-07-17
 ---
 
-# Algaecide for mustard algae: why shock does the killing and algaecide keeps it dead
-
 Algaecide alone will not kill mustard algae. The chlorine shock does the actual killing by pushing free chlorine past the algae's waxy outer coating; the algaecide's job is to keep the cell walls compromised so it cannot regrow from a stray spore in the plumbing. Skip the shock step and a bottle of algaecide just feeds it.
 
 Mustard algae shows up as a fine, yellow-brown dust on pool walls and in corners, usually in warm climates with a lot of humidity. It looks like dirt and brushes away easily, then reappears within hours because the visible dust is only the surface layer sitting on top of a colony that never actually left.
@@ -65,7 +63,5 @@ Most pools clear in three to five days with daily brushing and a properly dosed 
 It is not typically a health hazard by itself, but the low chlorine residual that lets it grow also means the water isn't disinfecting properly against other pathogens, so keep swimmers out until free chlorine and pH are back in the CDC-recommended ranges ([CDC Healthy Swimming](https://www.cdc.gov/healthy-swimming/about/home-pool-and-hot-tub-water-treatment-and-testing.html)).
 
 Bottom line: shock to breakpoint and brush hard first, add a chelated copper or 60% polyquat algaecide once chlorine normalizes, then hold that combination for five days of daily retesting. Algaecide without the shock just buys the algae more time.
-
-Written by the ClearCove Pools team. Updated July 15, 2026.
 
 <!-- QA tell-audit: removed "delve/unlock/crucial" style vocabulary; cut rule-of-three constructions; varied sentence length between short instructional lines and longer explanatory ones; kept operator voice ("Brush every wall..."); zero em/en dashes confirmed on final scan. -->

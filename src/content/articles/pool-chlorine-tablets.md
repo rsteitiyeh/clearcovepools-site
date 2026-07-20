@@ -5,8 +5,6 @@ keyword: "pool chlorine tablets"
 publishDate: 2026-07-14
 ---
 
-# Pool Chlorine Tablets: Dosing, Cost, and the CYA Problem
-
 Pool chlorine tablets are 3-inch pucks of trichlor, a stabilized chlorine compound that's about 90% available chlorine. One tablet dissolved per 10,000 gallons adds roughly 5.5 ppm of free chlorine and, less obviously, about 3.3 ppm of cyanuric acid (CYA), a stabilizer that builds up every week you use tablets and never breaks down on its own.
 
 That second number is the part most tablet buyers never see on the bucket label. Tablets are convenient because they dissolve slowly and keep sanitizer steady between visits, but every tablet also adds stabilizer that accumulates season over season. Get the CYA math wrong and you end up with a pool that tests "fine" for chlorine but can't actually kill anything effectively, because high CYA suppresses chlorine's killing power even when the ppm number looks normal.

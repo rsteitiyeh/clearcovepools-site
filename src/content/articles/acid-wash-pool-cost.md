@@ -5,8 +5,6 @@ keyword: "acid wash pool cost"
 publishDate: 2026-07-14
 ---
 
-# Acid Wash Pool Cost by Size (2026 Price Guide)
-
 An acid wash pool cost typically runs $300 to $700 for a standard residential inground pool, with a national average near $450. Price scales with total surface area (floor plus walls, not just footprint), stain severity, and whether the crew has to drain the pool first. Small vinyl or fiberglass pools rarely need one at all.
 
 That range holds for a straightforward plaster refresh. The number moves in either direction once you factor in stain type (metal stains cost more to strip than simple algae etching), regional labor rates, and whether draining and refilling is bundled into the quote. We break down the real math below, plus when to skip the acid entirely.
