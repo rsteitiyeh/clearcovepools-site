@@ -1,6 +1,6 @@
 ---
 title: "Pool chemical for alkalinity: baking soda math and acid dosing that works"
-description: ""
+description: "Sodium bicarbonate, plain baking soda, raises total alkalinity at a rate of about 1.5 pounds per 10,000 gallons for every 10 ppm you need to add."
 keyword: "pool chemical for alkalinity"
 publishDate: 2026-07-18
 ---

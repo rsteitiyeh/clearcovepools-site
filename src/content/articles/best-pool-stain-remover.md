@@ -1,6 +1,6 @@
 ---
 title: "Best pool stain remover: identify the stain first, then treat it right"
-description: ""
+description: "There is no single 'best' pool stain remover because stains fall into three chemically different categories: metal, organic, and mineral scale."
 keyword: "best pool stain remover"
 publishDate: 2026-07-17
 ---

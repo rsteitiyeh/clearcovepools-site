@@ -1,6 +1,6 @@
 ---
 title: "Copper algaecide for pools: how it works, staining risk, and when to skip it"
-description: ""
+description: "Copper algaecide kills algae by disrupting the enzyme systems inside the algae cell, and it works faster than most alternatives against stubborn strains"
 keyword: "copper algaecide for pools"
 publishDate: 2026-07-18
 ---

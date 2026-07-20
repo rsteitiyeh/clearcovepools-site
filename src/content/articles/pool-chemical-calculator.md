@@ -1,6 +1,6 @@
 ---
 title: "Pool chemical calculator: the dosing math explained with worked examples"
-description: ""
+description: "Every pool chemical calculator, ours included, runs the same underlying mass-balance idea: (pool gallons ÷ 10,000) × (ppm change needed) × the chemical's"
 keyword: "pool chemical calculator"
 publishDate: 2026-07-19
 ---

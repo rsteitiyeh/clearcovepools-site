@@ -1,6 +1,6 @@
 ---
 title: "Algaecide for mustard algae: why shock does the killing and algaecide keeps it dead"
-description: ""
+description: "Algaecide alone will not kill mustard algae. The chlorine shock does the actual killing by pushing free chlorine past the algae's waxy outer coating; the"
 keyword: "algaecide mustard algae"
 publishDate: 2026-07-17
 ---
