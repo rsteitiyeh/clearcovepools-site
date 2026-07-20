@@ -15,7 +15,7 @@ Press a crushed ascorbic acid (vitamin C) tablet, or a handful of tablets wrappe
 
 A third category, calcium scale, doesn't respond to either test. Scale sits as a rough, gray-white crust that won't lift with a vitamin C test or a chlorine soak; it dissolves with a mild acid wash instead and often needs a pumice stone for the last of it.
 
-## Snippet: which treatment for which stain
+## Which treatment for which stain
 
 | Stain type | How to confirm | Treatment | Typical whole-pool dose |
 |---|---|---|---|

@@ -40,7 +40,14 @@ const fmt = (d) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long
 ---
 <Base title={`${title} | ${site.BRAND}`} description={description} ogType="article">
   <script type="application/ld+json" set:html={jsonld} slot="head" />
-  <slot name="site-header" />
+  <header class="nav">
+    <a class="brand" href="/"><span class="wave"></span>ClearCove <b>Pools</b></a>
+    <nav aria-label="Main navigation">
+      <a href="/#tool">Calculator</a><a href="/guides/">Articles</a><a href="/#schedule">Free Schedule</a><a href="/#handbook">Pool Care Guide</a>
+    </nav>
+    <a class="btn sm" href="/#tool">Free Calculator</a>
+  </header>
+  <div class="ad">Advertisement</div>
   <main class="article-wrap">
     <nav class="breadcrumb" aria-label="Breadcrumb">
       <a href="/">Home</a> › <a href="/guides/">Guides</a> › <span>{title}</span>
@@ -74,10 +81,16 @@ const fmt = (d) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long
     <aside class="offer-box" style="margin:2rem 0;padding:1.25rem 1.4rem;border-radius:10px;font-size:0.95em;line-height:1.6;background:rgba(0,0,0,0.04);border-left:4px solid currentColor">
 <p style="margin:0"><strong>Recommended course:</strong> Most pool headaches trace back to water chemistry done out of order. We point readers to Swim University's pool care course — plain video lessons that walk through the balance-sanitize-circulate routine plus opening, closing, and weekly upkeep. Best if you'd rather learn the system once than chase problems each season. <em>Affiliate disclosure: clearcovepools.com may earn a commission if you enroll through this link, at no extra cost to you.</em></p>
 <p style="margin:0.7rem 0 0 0"><a href="https://www.swimuniversity.com/pool-care-handbook/?utm_source=clearcovepools&utm_medium=article&utm_campaign=offer1" rel="sponsored nofollow noopener" target="_blank"><strong>See the Pool Care Handbook course &rarr;</strong></a></p>
+<div class="ad">Advertisement</div>
 </aside>
 </article>
   </main>
-  <slot name="site-footer" />
+  <footer>
+    <a class="brand" href="/"><span class="wave"></span>ClearCove <b>Pools</b></a>
+    <nav><a href="/guides/">Articles</a><a href="/#tool">Calculator</a><a href="/#schedule">Free Schedule</a><a href="/#handbook">Handbook</a><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a><a href="/disclosure/">Disclosure</a><a href="/editorial/">Editorial</a></nav>
+    <p>ClearCove Pools earns commissions from qualifying purchases through links on this site — it never changes what we recommend. See our <a href="/disclosure/">affiliate disclosure</a>.</p>
+    <small>© 2026 {site.BRAND}</small>
+  </footer>
 </Base>
 
 <style is:global>
@@ -95,11 +108,78 @@ const fmt = (d) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long
   .related ul { list-style: none; padding: 0; }
   .related li { margin: 12px 0; }
 
-  .simple-nav { display: flex; align-items: center; gap: 24px; padding: 16px max(24px,calc((100% - 1160px)/2)); border-bottom: 1px solid #e5e5e5; }
-  .simple-nav .simple-brand { font-weight: 700; font-size: 18px; margin-right: auto; }
-  .simple-nav nav { display: flex; gap: 18px; font-size: 14px; }
-  .simple-footer { padding: 32px max(24px,calc((100% - 1160px)/2)) 48px; border-top: 1px solid #e5e5e5; margin-top: 40px; }
-  .simple-footer .simple-brand { font-weight: 700; font-size: 16px; display: block; margin-bottom: 12px; }
-  .simple-footer nav { display: flex; flex-wrap: wrap; gap: 14px; font-size: 13px; margin-bottom: 12px; }
-  .simple-footer small { opacity: .7; font-size: 12px; }
+:root{--navy:#042d49;--deep:#064e73;--blue:#087fac;--aqua:#37d3d0;--coral:#ff6b57;--yellow:#ffd45c;--ink:#07334c;--glass:rgba(255,255,255,.84)}
+  *{box-sizing:border-box}html{scroll-behavior:smooth}
+  body{margin:0;color:var(--ink);background:#f6fffe;font:16px/1.6 "Trebuchet MS","Avenir Next",Arial,sans-serif}
+  a{color:inherit;text-decoration:none}button,input,select{font:inherit}
+  .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}
+  .nav{position:sticky;z-index:20;top:10px;width:min(1160px,calc(100% - 24px));margin:10px auto 0;padding:10px 12px 10px 18px;display:flex;align-items:center;justify-content:space-between;gap:18px;border:1px solid #ffffffb8;border-radius:18px;background:#f7fffee6;box-shadow:0 8px 30px #01375321;backdrop-filter:blur(18px)}
+  .brand{display:flex;align-items:center;gap:9px;font-size:20px;font-weight:900;white-space:nowrap}.brand b{color:var(--blue)}
+  .wave{width:34px;height:25px;border-radius:50%;background:linear-gradient(155deg,var(--yellow) 0 30%,transparent 31%),linear-gradient(var(--aqua),var(--blue));box-shadow:inset 0 -7px #ffffff59;transform:rotate(-7deg)}
+  .nav nav{display:flex;gap:23px;font-size:14px;font-weight:800}
+  .btn,form.email button{display:inline-flex;justify-content:center;align-items:center;border:0;border-radius:12px;padding:13px 20px;background:var(--coral);color:white;font-weight:900;cursor:pointer;box-shadow:0 7px #d94938,0 13px 25px #d9493840;transition:.2s}
+  .btn:hover,form.email button:hover{transform:translateY(-2px)}.btn.sm{padding:8px 14px;font-size:12px;box-shadow:none}
+  .ad{height:90px;width:min(970px,calc(100% - 32px));margin:27px auto;display:grid;place-items:center;border:1px dashed #aac8ce;border-radius:10px;background:#eff8f7;color:#688391;font:11px Arial;letter-spacing:1.8px;text-transform:uppercase}
+  .water{position:relative;overflow:hidden;isolation:isolate;background:linear-gradient(135deg,#063f66,#078bb7 58%,#3bd7cf)}
+  .water:before{content:"";position:absolute;z-index:-1;inset:-40%;opacity:.18;background:repeating-radial-gradient(ellipse at 30% 30%,transparent 0 26px,#fff 27px 29px,transparent 31px 62px);transform:rotate(-14deg);animation:caustics 16s linear infinite}
+  .hero{min-height:700px;padding:100px max(24px,calc((100% - 1120px)/2));display:grid;grid-template-columns:1.3fr .7fr;gap:65px;align-items:center}
+  .glass{background:var(--glass);border:1px solid #ffffffa8;border-radius:28px;box-shadow:0 24px 60px #0027442e;backdrop-filter:blur(18px)}
+  .hero-card{padding:48px}
+  .eyebrow{margin:0 0 10px;color:#087c91;font-size:12px;letter-spacing:2px;text-transform:uppercase;font-weight:900}.light{color:#b7ffec}
+  .hero h1{max-width:820px;margin:0 0 24px;color:var(--navy);font-size:clamp(42px,6vw,76px);line-height:1.01;letter-spacing:-3px}
+  .lede{font-size:19px}
+  form.email{display:flex;gap:10px;margin-top:26px}form.email input{min-width:0;flex:1;padding:14px;border:2px solid transparent;border-radius:12px}
+  form.email input:focus,input:focus,select:focus{outline:3px solid var(--yellow)}
+  .micro{font-size:12px;color:#52717d}
+  .pool-disc{width:270px;aspect-ratio:1;display:grid;place-content:center;text-align:center;color:white;border:1px solid #ffffff5c;border-radius:50%;background:#03395b38;box-shadow:inset 0 0 0 28px #ffffff14;animation:float 5s ease-in-out infinite}
+  .pool-disc b{font-size:72px;line-height:1}.pool-disc small{letter-spacing:2px;text-transform:uppercase}
+  .proof{padding:25px max(24px,calc((100% - 1120px)/2));display:flex;justify-content:space-between;align-items:center;gap:25px;background:var(--navy);color:white}
+  .proof strong{color:var(--yellow);font-size:27px}.proof small{display:block}
+  .badges{display:flex;flex-wrap:wrap;gap:8px}.badges span{padding:7px 10px;border:1px solid #ffffff40;border-radius:99px;font-size:12px}
+  .section{padding:105px max(24px,calc((100% - 1120px)/2))}
+  .head{max-width:680px;margin-bottom:42px}
+  .head h2,.schedule h2,.offer h2,.final h2{margin:0 0 15px;color:var(--navy);font-size:clamp(34px,4.7vw,58px);line-height:1.04;letter-spacing:-2px}
+  .problem{background:linear-gradient(#fff,#e8f8f6)}
+  .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+  .card{padding:30px;transition:.25s}.card:hover{transform:translateY(-7px)}.card h3{margin:38px 0 10px;font-size:24px}
+  .num{color:var(--blue);font-size:12px;font-weight:900}
+  .schedule{position:relative;overflow:hidden;display:grid;grid-template-columns:.85fr 1.15fr;gap:70px;align-items:center;background:linear-gradient(120deg,#064e73,#06a6b8);color:white}
+  .schedule h2{color:white}
+  .check{padding:34px;color:var(--ink)}.check ul{padding:0;list-style:none}
+  .check li{padding:9px 0;border-bottom:1px solid #c7e6e4}.check li:before{content:"✓";margin-right:10px;color:#087c6c;font-weight:900}
+  .compact{display:grid}
+  .offer{display:grid;grid-template-columns:1.35fr .65fr;gap:70px;align-items:center;background:white}
+  .chips{display:flex;gap:8px;flex-wrap:wrap}.chips span{padding:7px 12px;border-radius:99px;background:#e6f7f5;font-size:13px;font-weight:800}
+  .price{text-align:center;padding:35px}.price>strong{display:block;font-size:78px;line-height:1.2}.price .btn{display:flex}.price small{display:block;margin-top:17px}
+  .calc-wrap{padding:105px max(18px,calc((100% - 1120px)/2))}.calc-wrap .head,.calc-wrap h2{color:white}
+  .byline{display:grid;grid-template-columns:150px 1fr;gap:34px;align-items:center;background:white}
+  .avatar{width:145px;height:145px;display:grid;place-items:center;border-radius:50%;background:linear-gradient(135deg,#cdf6ef,#70d9d4);font-size:10px;box-shadow:0 12px 40px #b2d7d5}
+  .faq{background:#ecf9f7}.faq-list{max-width:850px}
+  .faq details{margin:10px 0;padding:0 20px;border:1px solid #c9e0df;border-radius:14px;background:white}
+  .faq summary{padding:19px 0;display:flex;justify-content:space-between;cursor:pointer;list-style:none;font-weight:900}
+  .faq details p{margin:0 0 20px;color:#496773}.faq summary span{font-size:24px;color:var(--blue)}.faq details[open] summary span{transform:rotate(45deg)}
+  .final{padding:105px 24px;text-align:center;color:white}.final h2{color:white;font-size:clamp(44px,7vw,84px)}
+  .actions{display:flex;justify-content:center;align-items:center;gap:25px}.text-link{border-bottom:2px solid var(--yellow);font-weight:900}
+  footer{padding:52px max(24px,calc((100% - 1120px)/2));display:grid;grid-template-columns:1fr 1fr;gap:25px;background:#032b43;color:#d9edf0}
+  footer nav{display:flex;gap:23px;justify-content:flex-end;flex-wrap:wrap;font-size:14px;font-weight:800}
+  footer p{grid-column:1/-1;max-width:760px;font-size:13px;color:#a9c5cc}
+  @keyframes caustics{to{transform:translate(10%,8%) rotate(-14deg)}}
+  @keyframes float{50%{transform:translateY(-14px)}}
+
+  /* ---- ClearCove skin for the shared Tool engine (glass, matches design) ---- */
+  .calc{background:var(--glass);border:1px solid #ffffffa8;border-radius:28px;box-shadow:0 24px 60px #0027442e;backdrop-filter:blur(18px)}
+  .calc-inputs,.calc-results{padding:38px}
+  .calc-field input,.calc-field select{border:1px solid #bcd4d6}
+  .calc-results{background:#eef8d5;border-radius:0}
+  .calc-results.tone-warn{background:#fff1bd}.calc-results.tone-bad{background:#d8e2d4}
+  .calc-dot{box-shadow:0 0 0 7px #29ad6a26}
+  .tone-warn .calc-dot{background:#df9d0a}.tone-bad .calc-dot{background:#67785f}
+
+  @media(max-width:850px){.nav nav{display:none}.hero,.schedule,.offer{grid-template-columns:1fr}.hero{min-height:auto}.pool-disc{display:none}.proof{align-items:flex-start}.cards{grid-template-columns:1fr}.byline{grid-template-columns:110px 1fr}.avatar{width:100px;height:100px}}
+  @media(max-width:580px){.hero{padding:65px 14px 80px}.hero-card{padding:25px 20px}.hero h1{font-size:43px}form.email{display:grid}.section{padding-top:75px;padding-bottom:75px}.calc-inputs,.calc-results{padding:25px 20px}.proof{flex-direction:column}.byline{grid-template-columns:1fr}.actions{flex-direction:column}footer{grid-template-columns:1fr}footer nav{justify-content:flex-start;display:grid;grid-template-columns:1fr 1fr}}
+  @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+  .prose a { color: var(--accent, var(--teal, #0E5C4A)); text-decoration: underline; }
+  .prose ul, .prose ol { padding-left: 1.4em; }
+  .prose blockquote { margin: 1.4em 0; padding: 12px 18px; border-left: 4px solid var(--accent, var(--teal, #0E5C4A)); background: rgba(0,0,0,0.03); font-style: italic; }
+  .prose table th { background: rgba(0,0,0,0.04); }
 </style>

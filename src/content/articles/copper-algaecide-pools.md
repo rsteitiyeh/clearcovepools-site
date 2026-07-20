@@ -21,7 +21,7 @@ Staining risk rises sharply once copper levels climb above roughly 0.3 ppm while
 
 High total alkalinity compounds the problem because it pushes pH up faster after every chemical addition, giving copper more opportunities to precipitate. A pool running alkalinity above 120 ppm alongside a copper algaecide is a much higher staining risk than the same dose in a properly balanced pool.
 
-## Snippet: copper algaecide staining risk by pool type
+## Copper algaecide staining risk by pool type
 
 | Pool surface or feature | Staining risk with non-chelated copper | Better option |
 |---|---|---|

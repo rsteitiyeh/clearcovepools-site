@@ -22,7 +22,7 @@ Test first. A full test (chlorine, pH, alkalinity, calcium hardness, cyanuric ac
 
 Wait 15 to 30 minutes between each step with the pump running, and retest before moving to the next chemical. Skipping the wait means you're dosing off a reading the water hasn't caught up to yet.
 
-## Snippet: the spring opening chemical list
+## The spring opening chemical list
 
 | Chemical | Purpose | Target range | Add in order |
 |---|---|---|---|

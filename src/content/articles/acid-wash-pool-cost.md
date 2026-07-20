@@ -92,5 +92,3 @@ Yes, for a full wash. Crews pump the water down to a low working level (not alwa
 Usually not, and doing it yourself can void the warranty outright. Most plaster and resurfacing warranties specify approved maintenance chemicals and dilution limits; an improper DIY acid wash is one of the most common reasons homeowners lose warranty coverage on a relatively new pool surface. Check your warranty terms before doing anything with acid on a surface under 2 years old.
 
 <!-- humanizer tell-audit: draft leaned on "it's important to" framing in the safety section (cut), used "delve into the details" once (cut), had a rule-of-three in the bottom line ("budget, ask, don't attempt" trimmed to two clauses), and opened with throat-clearing ("When it comes to pool maintenance...") that was removed for a direct answer-first opener. Final pass rechecked for em/en dashes: none present. -->
-
-By the ClearCove Pools team. Updated July 2026.

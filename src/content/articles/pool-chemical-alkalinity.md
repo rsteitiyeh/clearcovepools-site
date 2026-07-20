@@ -25,7 +25,7 @@ Use this formula: (pool gallons ÷ 10,000) × (ppm decrease needed ÷ 10) × 32 
 
 Cap any single acid treatment at a 10 to 20 ppm drop. For a 50 ppm total decrease, split it into three doses spaced 24 hours apart: roughly 96 fl oz (3 quarts) for the first 20 ppm drop, another 96 fl oz for the second 20 ppm, and 48 fl oz for the final 10 ppm, retesting before each addition since acid concentration and water temperature both shift the actual result slightly from the formula.
 
-## Snippet: alkalinity dosing at a glance (per 10,000 gallons, per 10 ppm)
+## Alkalinity dosing at a glance (per 10,000 gallons, per 10 ppm)
 
 | Direction | Chemical | Amount per 10,000 gal per 10 ppm | Max per single dose |
 |---|---|---|---|

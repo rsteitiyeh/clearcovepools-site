@@ -15,7 +15,7 @@ Knowing the formula means you can sanity-check any calculator's output, or work 
 
 The dose rate and the ppm increment are the only things that change chemical to chemical. Below are the rates for the six chemicals a home pool owner doses most often.
 
-## Snippet: dose rate per 10,000 gallons
+## Dose rate per 10,000 gallons
 
 | Chemical | Direction | Dose rate | Per how many ppm | Product strength assumed |
 |---|---|---|---|---|

@@ -82,5 +82,3 @@ Not directly in the same container or feeder. Trichlor tablets and other chlorin
 Most pool chemistry guidance puts the useful residential range at 30 to 50 ppm for a stabilized (tablet-fed) pool, with CDC's Model Aquatic Health Code capping commercial pools at 15 ppm specifically during fecal-contamination response. Above roughly 50 ppm, added chlorine loses effectiveness faster than the UV protection benefit justifies.
 
 <!-- humanizer tell-audit: first draft used "it's crucial to note" before the CYA math (cut), had a negative-parallelism line ("it's not just about chlorine, it's about stabilizer" - rewritten to a direct statement), and closed with a vague-authority phrase ("experts agree tablets are convenient" - replaced with the CDC-sourced ED-visit stat instead). Final pass confirmed zero em dashes and zero en dashes. -->
-
-By the ClearCove Pools team. Updated July 2026.
