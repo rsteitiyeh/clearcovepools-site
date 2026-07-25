@@ -14,11 +14,11 @@
     { "id": "ta", "label": "Alkalinity", "unit": "ppm", "type": "number", "value": 90, "min": 0 },
     { "id": "cya", "label": "CYA", "unit": "ppm", "type": "number", "value": 40, "min": 0 },
     { "id": "strength", "label": "Chlorine product", "type": "select", "options": [
-      { "label": "Liquid chlorine — 10%", "value": 10 },
-      { "label": "Liquid chlorine — 12.5%", "value": 12.5 },
-      { "label": "Household bleach — 6%", "value": 6 },
-      { "label": "Cal-hypo — 65% (approx.)", "value": 65 },
-      { "label": "Dichlor — 56% (approx.)", "value": 56 }
+      { "label": "Liquid chlorine: 10%", "value": 10 },
+      { "label": "Liquid chlorine: 12.5%", "value": 12.5 },
+      { "label": "Household bleach: 6%", "value": 6 },
+      { "label": "Cal-hypo: 65% (approx.)", "value": 65 },
+      { "label": "Dichlor: 56% (approx.)", "value": 56 }
     ]}
   ],
   "outputs": [
