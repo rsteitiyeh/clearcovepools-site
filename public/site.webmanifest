@@ -1,0 +1,20 @@
+{
+  "name": "ClearCove Pools",
+  "short_name": "ClearCove Pools",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "theme_color": "#087fac",
+  "background_color": "#f6fffe",
+  "display": "browser",
+  "start_url": "/"
+}
