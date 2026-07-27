@@ -1,6 +1,6 @@
 ---
 title: "Green pool cleanup: the step-by-step breakpoint chlorination guide"
-description: ""
+description: "Clearing a green pool takes 1 to 5 days of breakpoint chlorination depending on severity, with DIY costs from $50 to $300."
 keyword: "green pool cleanup"
 publishDate: 2026-07-25
 ---

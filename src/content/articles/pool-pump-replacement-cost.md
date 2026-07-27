@@ -1,6 +1,6 @@
 ---
 title: "Pool pump replacement cost: what owners actually pay in 2026"
-description: ""
+description: "Expect $700 to $2,000 installed in 2026, almost all of it variable-speed since federal rules phased out single-speed pumps."
 keyword: "pool pump replacement cost"
 publishDate: 2026-07-25
 ---
