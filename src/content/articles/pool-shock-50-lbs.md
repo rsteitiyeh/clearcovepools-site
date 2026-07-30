@@ -1,5 +1,5 @@
 ---
-title: "Pool shock 50 lbs: the bulk buying guide that does the chlorine math"
+title: "Pool shock 50 lbs: the bulk buying guide and chlorine math"
 description: "A 50 lb bucket of cal-hypo runs $200 to $270 and covers 20 to 40 treatments, cheaper per dose than buying single 1 lb bags."
 keyword: "pool shock 50 lbs"
 publishDate: 2026-07-23

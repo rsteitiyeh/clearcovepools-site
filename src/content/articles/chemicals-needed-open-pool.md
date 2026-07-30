@@ -1,5 +1,5 @@
 ---
-title: "Chemicals needed to open a pool: the spring list and exact sequence"
+title: "Chemicals needed to open a pool: the spring checklist"
 description: "Opening a pool takes six chemical categories: alkalinity increaser, pH adjuster, calcium hardness increaser, stabilizer (cyanuric acid), sanitizer, and"
 keyword: "chemicals needed open pool"
 publishDate: 2026-07-17

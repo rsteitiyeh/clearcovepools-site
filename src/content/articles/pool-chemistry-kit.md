@@ -1,5 +1,5 @@
 ---
-title: "Pool chemistry kit guide: strips, drop kits, and digital testers compared"
+title: "Pool chemistry kit guide: strips, drop kits, and testers"
 description: "Test strips run about 0.3 to 0.5 ppm off, while FAS-DPD drop kits land within 0.1 to 0.2 ppm, closer to lab-accurate results."
 keyword: "pool chemistry kit"
 publishDate: 2026-07-23

@@ -1,5 +1,5 @@
 ---
-title: "Salt water vs chlorine pool: the real difference (and the real cost)"
+title: "Salt water vs chlorine pool: the real difference and cost"
 description: ""
 keyword: "salt water vs chlorine pool"
 publishDate: 2026-07-28
