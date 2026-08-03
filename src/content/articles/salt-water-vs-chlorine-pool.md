@@ -1,6 +1,6 @@
 ---
 title: "Salt water vs chlorine pool: the real difference and cost"
-description: ""
+description: "In the salt water vs chlorine pool debate, a salt system still uses chlorine: electrolysis converts dissolved salt into the same sanitizer as tablets."
 keyword: "salt water vs chlorine pool"
 publishDate: 2026-07-28
 ---

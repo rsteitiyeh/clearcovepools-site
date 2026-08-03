@@ -1,6 +1,6 @@
 ---
 title: "Pool resurfacing cost: 2026 price guide by finish"
-description: ""
+description: "Pool resurfacing cost ranges from $4 to $10 per square foot for plaster up to $30 for tile, or about $5,700 to $11,600 for a standard 16x32 pool."
 keyword: "pool resurfacing cost"
 publishDate: 2026-07-28
 ---
