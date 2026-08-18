@@ -1,14 +1,23 @@
 {
   "acid-wash-pool-cost": "/og/a/acid-wash-pool-cost.png",
+  "algae-removal-pool-walls": "/og/a/algae-removal-pool-walls.png",
   "algaecide-mustard-algae": "/og/a/algaecide-mustard-algae.png",
   "best-pool-stain-remover": "/og/a/best-pool-stain-remover.png",
   "chemicals-needed-open-pool": "/og/a/chemicals-needed-open-pool.png",
+  "cloudy-pool-water-fix": "/og/a/cloudy-pool-water-fix.png",
   "copper-algaecide-pools": "/og/a/copper-algaecide-pools.png",
   "green-pool-cleanup": "/og/a/green-pool-cleanup.png",
   "pool-chemical-alkalinity": "/og/a/pool-chemical-alkalinity.png",
   "pool-chemical-calculator": "/og/a/pool-chemical-calculator.png",
   "pool-chemistry-kit": "/og/a/pool-chemistry-kit.png",
   "pool-chlorine-tablets": "/og/a/pool-chlorine-tablets.png",
+  "pool-closing-checklist": "/og/a/pool-closing-checklist.png",
+  "pool-heater-cost": "/og/a/pool-heater-cost.png",
+  "pool-leak-detection-repair": "/og/a/pool-leak-detection-repair.png",
+  "pool-liner-replacement-cost": "/og/a/pool-liner-replacement-cost.png",
+  "pool-opening-checklist": "/og/a/pool-opening-checklist.png",
   "pool-pump-replacement-cost": "/og/a/pool-pump-replacement-cost.png",
-  "pool-shock-50-lbs": "/og/a/pool-shock-50-lbs.png"
+  "pool-resurfacing-cost": "/og/a/pool-resurfacing-cost.png",
+  "pool-shock-50-lbs": "/og/a/pool-shock-50-lbs.png",
+  "salt-water-vs-chlorine-pool": "/og/a/salt-water-vs-chlorine-pool.png"
 }
