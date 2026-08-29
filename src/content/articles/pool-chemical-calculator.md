@@ -77,5 +77,3 @@ The same mass-balance formula works, but hot tub volumes are far smaller (300 to
 Split it. Every chemical in the table above has a practical per-treatment cap (roughly 1.5 lb/10,000 gal for baking soda, a 20 ppm drop for acid, and similar limits for the rest); stage larger corrections across multiple treatments with a retest between each rather than adding the full calculated amount at once.
 
 Bottom line: every pool chemical calculator runs (gallons ÷ 10,000) × (ppm change ÷ that chemical's ppm increment) × a chemical-specific rate. Get the gallon count and the product's label percentage right, and the rest is arithmetic you can check by hand in under a minute.
-
-<!-- QA tell-audit: first draft mislabeled the chlorine dose rate as "per 10 ppm" when the industry convention is per 1 ppm, which would have understated the chlorine dose by 10x; caught it on self-review and rewrote the formula section, table, and worked example to separate chlorine's per-1-ppm convention from the per-10-ppm chemicals; confirmed all four worked examples recompute correctly by hand; zero em/en dashes on final scan. -->

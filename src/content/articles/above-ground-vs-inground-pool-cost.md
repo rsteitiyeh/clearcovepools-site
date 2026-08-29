@@ -55,5 +55,3 @@ An above-ground pool can be ready to swim in days, sometimes a single weekend. A
 Above-ground pools generally cost less to maintain due to smaller water volume and simpler equipment. Inground pools cost more to run but last significantly longer, so the real comparison is cost per year of ownership, not just the annual number alone.
 
 Bottom line: above-ground buys years of swimming for a fraction of the cost; inground buys decades and, in the right market, some of that cost back at resale. Pick based on how long you'll own the property, not just the pool.
-
-<!-- QA tell-audit: added two things beyond current top results: an explicit installation-timeline comparison (days vs. 8-12-plus weeks) that most cost-comparison pages skip entirely, and an honest flag that year-to-year maintenance cost isn't hard-quantified in available trade data rather than inventing a number to fill the gap. Draft had "ultimately, the choice is yours," a generic closer, cut for the bottom line instead. Final scan: zero em/en dashes. -->

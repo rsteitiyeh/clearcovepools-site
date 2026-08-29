@@ -72,5 +72,3 @@ On the finish's typical lifespan schedule (7 to 12 years for plaster, 15 to 25 f
 Not automatically, but it depends on your ownership horizon. A plaster resurfacing costs less upfront and may make sense if you're planning to sell within the next several years; an owner planning to stay 15-plus years usually comes out ahead financially with pebble or quartz despite the higher initial bill.
 
 Bottom line: budget by wetted surface area, not footprint, expect $4 to $10 per square foot for plaster and roughly $10 for pebble, and weigh lifespan against sticker price before assuming the cheapest finish is the cheapest choice.
-
-<!-- QA tell-audit: added two things beyond current top results: a computed total-cost-by-pool-size table (most competing pages stop at per-square-foot rates) and an annualized cost-per-year comparison across finishes that reveals quartz beats both plaster and pebble on true long-term cost, a finding not present in any single source reviewed. Draft used "when it comes to choosing a finish" as an opener, replaced with a direct answer. Final scan: zero em/en dashes. -->

@@ -68,5 +68,3 @@ Often, yes, if the pool is a long-term keeper. A 30-mil liner costs $700 to $1,0
 Yes, for a single small tear or puncture, a patch running $10 to $500 is the right call. Multiple recurring leaks, major fading, or a liner slipping out of its track are signs the liner itself is past patching and full replacement is the more cost-effective option.
 
 Bottom line: budget $3,000 to $5,500 for a standard inground liner or $500 to $2,500 above-ground, and consider the thicker gauge if the pool is staying put for the long haul.
-
-<!-- QA tell-audit: added two things beyond current top results: a gauge-vs-lifespan cost table that runs the "pay more now vs. replace twice" math, and a signs-to-replace-vs-patch section with real thresholds tied back to the patch/replace cost decision, most liner cost pages either skip signs of failure or list them without connecting to cost. Draft closed with "the future of your pool depends on this choice," cut for being a vibe rather than a fact. Final scan: zero em/en dashes. -->

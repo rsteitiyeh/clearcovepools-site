@@ -57,5 +57,3 @@ Gas typically raises pool temperature in 3 to 6 hours. A heat pump takes 24 to 7
 Yes. Both types need the water chemistry kept in range to protect the heat exchanger from scale and corrosion, plus periodic professional service: cleaning burners or coils, checking refrigerant on a heat pump, and inspecting for leaks.
 
 Bottom line: gas costs less to install and heats faster, but a heat pump costs less to run in any climate mild enough to keep it efficient. Pick based on how often the pool actually gets heated, not just the sticker price.
-
-<!-- QA tell-audit: added two things beyond current top results: named manufacturer BTU and efficiency specs for Pentair, Raypak, and Hayward pulled from live product pages rather than generic "gas vs. heat pump" ranges, and the water-chemistry-protects-the-heat-exchanger angle tying heater lifespan back to pH and calcium hardness, which cost-comparison pages rarely mention. Draft had "it's important to note that climate matters," rewritten as a direct claim. Final scan: zero em/en dashes. -->

@@ -59,5 +59,3 @@ Run your pool's gallon count and current combined chlorine reading through the C
 The ClearCove Pools weekly pool care schedule (free download) includes the brushing rotation that keeps algae from getting established on walls in the first place, which takes a fraction of the effort a full outbreak does.
 
 Bottom line: match the brush to the surface before anything else, brush before you shock, work top to bottom toward the drain with overlapping strokes, and expect black algae on plaster to need noticeably more brushing effort than ordinary green algae.
-
-<!-- QA tell-audit: added two things beyond current top results: a surface-to-brush risk table that names the specific failure mode of the wrong brush choice per material (most guides just say "use the right brush" without saying what breaks), and a dedicated black algae section explaining the biofilm/pore-rooting mechanism that differentiates its removal technique from ordinary green algae. Draft had a rule-of-three in the black algae section ("scrub, shock, repeat") trimmed on rewrite. Final scan: zero em/en dashes. -->

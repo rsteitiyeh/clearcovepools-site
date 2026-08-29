@@ -55,5 +55,3 @@ The physical swap is within reach for an experienced DIYer comfortable with basi
 Not necessarily, and oversizing wastes money on both the purchase and the electricity bill. Pump sizing should match your plumbing's flow capacity and your filter and turnover-rate requirements, not just "bigger is safer." A pool professional can calculate your actual required flow rate from pipe size and pool volume.
 
 Bottom line: budget $700 to $2,000 installed for a 2026 pool pump replacement, expect it to be variable-speed regardless of preference for most sizes, and count on the extra upfront cost paying itself back in 2 to 4 years of lower electricity bills.
-
-<!-- QA tell-audit: added two things beyond current top results: the specific DOE Federal Register compliance dates (September 29, 2025 and September 28, 2027) rather than a vague "new rules require efficient pumps" statement, and a worked electricity-savings example tied to a specific rate and horsepower rather than a generic "saves money" claim. Cut a "let's look at" signpost and an "it's worth noting" filler phrase from the draft. Final scan: zero em/en dashes. -->

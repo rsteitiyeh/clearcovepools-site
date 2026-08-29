@@ -79,5 +79,3 @@ Yes. Adding chemicals blind risks overcorrecting a number that was already close
 Most owners can handle a standard opening with a good test kit and the sequence above. A professional is worth calling if the equipment shows damage from freezing, the water is severely green or swampy, or you're opening a pool for the first time and want someone to confirm the plumbing and equipment are sound before you commit to a full chemical startup.
 
 Bottom line: prep the equipment before you touch a single chemical, test all five numbers first, and correct them in order, alkalinity, pH, calcium, stabilizer, sanitizer, shock, with a retest between each.
-
-<!-- QA tell-audit: added two things beyond current top results: a combined equipment-prep-plus-chemistry checklist in one place (most competing pages cover either the physical steps or the chemical order, not both in a single sequential checklist), and an explicit swim-timing answer tied to CDC's specific ppm range rather than a vague "wait a day or two." Draft had a "let's walk through" signpost in the intro, replaced with a direct answer. Final scan: zero em/en dashes. -->

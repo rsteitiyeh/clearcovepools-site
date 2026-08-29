@@ -84,5 +84,3 @@ If temperatures never drop below freezing in your area, you can often skip antif
 A standard closing, chemistry balancing plus the physical shutdown, usually takes 2 to 4 hours for an experienced owner, spread across the several days needed to let the chemical steps sequence correctly. A professional crew typically finishes the on-site work in under an hour once the pre-close chemistry is already balanced.
 
 Bottom line: balance the water before you shock it, shock before you add algaecide, and never combine the two. Get the chemical sequence right and the physical shutdown, blowout, antifreeze, plugs, cover, is straightforward from there.
-
-<!-- QA tell-audit: added two things beyond current top results: an explicit chemical closing sequence with the shock-before-algaecide warning (most competing pages list closing chemicals without sequencing them or warning about the interaction), and a DIY-vs-professional cost table with sourced 2026 ranges rather than a single "hire a pro" line. Draft had a rule-of-three opener ("test, balance, protect"), cut down to two clauses. Final scan: zero em/en dashes. -->

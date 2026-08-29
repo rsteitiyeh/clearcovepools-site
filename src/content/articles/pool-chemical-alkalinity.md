@@ -61,5 +61,3 @@ Some chlorine products, particularly cal-hypo and dichlor, carry a mild alkalini
 Not directly to swimmers, but alkalinity above 120 to 150 ppm makes pH resistant to correction and tends to push the water toward cloudiness and scale formation over time.
 
 Bottom line: 1.5 pounds of baking soda per 10,000 gallons raises alkalinity 10 ppm, and 1 quart of 31.45% muriatic acid per 10,000 gallons lowers it 10 ppm. Stage anything bigger than a 20 ppm move across multiple treatments and retest before each one.
-
-<!-- QA tell-audit: removed a negative-parallelism sentence ("it's not just about the number, it's about the buffer") from the draft; replaced with a direct definition; confirmed both worked examples recalculate correctly; zero em/en dashes on final scan. -->

@@ -65,5 +65,3 @@ Rarely. Most green pools clear with breakpoint chlorination, brushing, and filtr
 A light bloom often shifts visibly within 24 hours of the first proper dose. A severe, opaque pool typically needs 3 to 5 days of repeated dosing and constant filtration before it's back to normal swimmable clarity, sometimes longer if the filter itself needs mid-cleanup servicing.
 
 Bottom line: test before you dose, brush before you shock, target roughly 10 times the combined chlorine reading (more for severe blooms), and expect real timelines of 1 to 5 days depending on how far gone the water actually is.
-
-<!-- QA tell-audit: added two things beyond the current top results: a worked breakpoint-dose calculation scaled to two severity tiers for a specific pool size (rather than a generic "shock the pool" instruction), and a cost/timeline table cross-referencing DIY vs professional spend at three severity levels from a named 2026 source. Draft had a negative-parallelism line ("it's not just about chlorine, it's about time") in the intro, cut on rewrite. Final scan: zero em/en dashes. -->

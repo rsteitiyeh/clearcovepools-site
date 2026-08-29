@@ -60,5 +60,3 @@ No. Running both risks pushing total copper well past the 0.3 ppm staining thres
 At 60% concentration, yes, polyquat is one of the two formulas (along with chelated copper) that actually holds up against mustard algae's chlorine-resistant coating. Lower-concentration polyquat sold for routine maintenance is not strong enough.
 
 Bottom line: copper algaecide works fast and stacks well with a chlorine shock, but it stains once levels pass roughly 0.3 ppm and pH drifts up. Balance the water first, use a chelated formula on light surfaces, or skip copper for polyquat if the pool has stained before.
-
-<!-- QA tell-audit: cut a "boasts" construction describing chelated copper in the first draft; replaced a vague "experts recommend" line with the specific pH band and its source; verified sentence rhythm varies; zero em/en dashes confirmed. -->

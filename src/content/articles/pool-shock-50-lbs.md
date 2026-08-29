@@ -62,5 +62,3 @@ Because calcium is roughly a third of the compound by weight; every dose adds so
 Not always. "Pool shock" is a category that includes calcium hypochlorite, dichlor, and non-chlorine (potassium monopersulfate) options; cal-hypo is simply the most common bulk-bucket format because it's the least expensive per pound of available chlorine among chlorine-based shocks.
 
 Bottom line: check the available-chlorine percentage on the label before comparing prices, expect $6 to $11 per treatment from a 50 lb bucket against $9 to $15 per single bag, and never store cal-hypo near other pool chemicals.
-
-<!-- QA tell-audit: this article adds two things the current top results don't: a side-by-side worked cost-per-treatment comparison between two specific 2026-priced retail products (68% vs 73% strength) instead of a generic price range, and a computed breakpoint-chlorination dose scaled to bucket-percentage-of-use for a green pool rather than just citing the 10x multiplier. Draft originally used "it's important to note" once in the storage section (cut) and a rule-of-three in the bottom line (trimmed to two clauses). Final scan confirms zero em/en dashes. -->

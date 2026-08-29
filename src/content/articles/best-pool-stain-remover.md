@@ -60,5 +60,3 @@ Yes. A metal sequestrant added on a regular schedule, roughly every two to four 
 Ascorbic acid treatments work on vinyl the same way they work on plaster since the chemistry is about pulling metal out of the water, not off the surface. Acid washing, however, is a plaster-specific process and should never be used on a vinyl liner.
 
 Bottom line: run the vitamin C test before buying anything. Metal stains need ascorbic acid and a sequestrant, organic stains need shock and brushing, and scale needs acid, and using the wrong one on the wrong stain either does nothing or makes it worse.
-
-<!-- QA tell-audit: cut "it's important to note" style throat-clearing from the draft; replaced a bolded-header bullet list with a real table; varied paragraph length; verified zero em/en dashes on final pass. -->

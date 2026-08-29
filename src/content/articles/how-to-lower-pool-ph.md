@@ -62,5 +62,3 @@ Aeration from waterfalls, spa jets, wind, and splash pushes dissolved carbon dio
 Most guidance calls for waiting until the water has circulated for at least 30 minutes and the pH has retested inside the 7.0 to 7.8 CDC range before swimming. A large correction dose may need a few hours of circulation before it fully levels out.
 
 Bottom line: lower pH with muriatic acid or dry acid in small, retested doses, correct alkalinity first since it buffers the result, and expect to re-treat more often on aerated or windy pools where CO2 loss keeps pushing pH back up on its own.
-
-<!-- QA tell-audit: added two things beyond current top results: an explicit explanation of why alkalinity buffers pH response (most competing articles give one dosing number with no caveat about why it's approximate), and the aeration/CO2 off-gassing mechanism as a separate, ongoing cause of pH rise independent of alkalinity, which almost no competing article addresses. Draft had a negative-parallelism line ("it's not just about the dose, it's about the buffer") rewritten to a direct statement. Final scan: zero em/en dashes. -->

@@ -68,5 +68,3 @@ A small vinyl liner tear can be patched for as little as $10 with a DIY kit. Ski
 No. Evaporation alone can account for up to about half an inch of daily loss in hot, dry, or windy conditions, more with an uncovered heated pool. The bucket test is the fastest way to separate evaporation from an actual leak before spending on a professional inspection.
 
 Bottom line: run the bucket test before calling anyone. It costs nothing, takes 24 hours, and tells you whether you're chasing evaporation or an actual leak worth paying to find.
-
-<!-- QA tell-audit: added two things beyond current top results: a quick-reference evaporation-vs-leak table with specific daily-loss thresholds, and a breakdown of what dye testing versus electronic detection each actually finds, most competitor pages describe the bucket test but skip explaining how professional diagnostics differ from it. Draft used "at the end of the day" as a filler transition, cut. Final scan: zero em/en dashes. -->

@@ -63,5 +63,3 @@ Most pools clear in three to five days with daily brushing and a properly dosed 
 It is not typically a health hazard by itself, but the low chlorine residual that lets it grow also means the water isn't disinfecting properly against other pathogens, so keep swimmers out until free chlorine and pH are back in the CDC-recommended ranges ([CDC Healthy Swimming](https://www.cdc.gov/healthy-swimming/about/home-pool-and-hot-tub-water-treatment-and-testing.html)).
 
 Bottom line: shock to breakpoint and brush hard first, add a chelated copper or 60% polyquat algaecide once chlorine normalizes, then hold that combination for five days of daily retesting. Algaecide without the shock just buys the algae more time.
-
-<!-- QA tell-audit: removed "delve/unlock/crucial" style vocabulary; cut rule-of-three constructions; varied sentence length between short instructional lines and longer explanatory ones; kept operator voice ("Brush every wall..."); zero em/en dashes confirmed on final scan. -->

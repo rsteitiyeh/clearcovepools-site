@@ -66,5 +66,3 @@ This is expected and it's exactly the accuracy gap described above. Trust the dr
 Yes, the chemistry being measured is the same, but hot tubs run at higher required chlorine or bromine minimums and higher water temperature accelerates chemical consumption, so more frequent testing, ideally with a drop kit for accuracy, matters more in a hot tub than in a pool.
 
 Bottom line: strips are fast and cheap but the least accurate; FAS-DPD drop kits are the most accurate but the slowest; digital testers split the difference. Most owners do best pairing a digital tester or drop kit for chlorine and pH with occasional strip checks for a quick look between full tests.
-
-<!-- QA tell-audit: removed a "whether you're a first-time owner or a seasoned pool pro" symmetrical opener from the first draft; replaced vague "many experts say" with the specific CDC recommendation and its link; confirmed both tables serve distinct snippet targets rather than repeating each other; zero em/en dashes on final scan. -->

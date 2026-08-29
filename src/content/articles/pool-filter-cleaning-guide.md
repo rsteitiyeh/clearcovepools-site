@@ -75,5 +75,3 @@ Cleaning a sand or DE filter more than necessary doesn't damage anything, but it
 If backwashing or rinsing stops bringing the pressure back down to baseline, the media itself, sand, cartridge, or DE grids, has likely reached the end of its working life and needs replacing rather than another cleaning cycle.
 
 Bottom line: clean by pressure, not by the calendar, backwash or rinse whenever the gauge reads 8 to 10 psi above its clean baseline, and replace the media itself every few years once cleaning stops bringing the pressure back down.
-
-<!-- QA tell-audit: added two things beyond current top results: a single unifying 8-10 psi trigger rule stated up front and applied consistently across all three filter types (most pages give separate, disconnected schedules per filter type without the shared pressure logic), and a media-replacement section tied to when cleaning stops working, not just a flat "every X years" claim. Draft repeated "it's important to" twice, both cut. Final scan: zero em/en dashes. -->

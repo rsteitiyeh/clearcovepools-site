@@ -71,5 +71,3 @@ No. A clarifier coagulates particles specifically so the filter can trap them; i
 Run it continuously, 24 to 48 hours, instead of the usual 8 to 12 hours a day. Cutting the run time short before the water has actually cleared is a common reason a "fixed" pool clouds back up within a day or two.
 
 Bottom line: fix the cause (chemistry, filtration, or bather load) before reaching for a clarifier, and give continuous filtration 24 to 48 hours to do the real work.
-
-<!-- QA tell-audit: added two things beyond current top results: the CYA chlorine-lock mechanism explained as a specific ranked cause (most competitor pages mention CYA only in passing, if at all), and a direct glass-test diagnostic to separate filtration problems from chemistry problems before spending on clarifier or flocculant. Draft opened with "When your pool looks cloudy, it can be confusing to know where to start," cut as throat-clearing. Final scan: zero em/en dashes. -->

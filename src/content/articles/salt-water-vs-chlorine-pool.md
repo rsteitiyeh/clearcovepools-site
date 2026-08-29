@@ -59,5 +59,3 @@ Most inground pools can, since the conversion is mainly adding the salt cell and
 Rarely, after the initial fill. Splash-out, backwashing, and rain dilution gradually lower salt level over a season, so most owners test and top off once or twice a year rather than adding salt on any regular schedule.
 
 Bottom line: a salt pool and a chlorine pool are both chlorine pools; the salt cell just manufactures the sanitizer on-site instead of you buying it pre-made. Choose based on upfront budget, expected years of ownership, and whether your existing equipment is salt-rated, not based on a belief that one is chemical-free and the other isn't.
-
-<!-- QA tell-audit: added two things beyond current top results: a component-by-component sourced cost table instead of a single unverified "salt is cheaper" claim, and the explicit CDC cross-reference showing identical free-chlorine/pH targets apply to both systems, which most comparison articles omit entirely. Draft opened with "when deciding between salt and chlorine..." throat-clearing, replaced with a direct answer. Final scan: zero em/en dashes. -->

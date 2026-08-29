@@ -65,5 +65,3 @@ A properly prepped and sealed concrete resurfacing job lasts 8 to 15 years. Wood
 DIY concrete resurfacer is sold in 40-pound bags for $20 to $40, covering 15 to 80 square feet, and small crack repairs are within reach for most homeowners. Full resurfacing with color, stamping, or decorative texture is a two-person job at minimum and is where most DIY attempts go wrong on prep and timing.
 
 Bottom line: budget $100 to $750 for a spot crack repair, $1,500 to $10,800 for full concrete resurfacing, and $25 to $55 per square foot if the deck needs a complete rebuild. The prep work, not the finish coat, is what determines whether the job lasts 10 years or falls apart in one.
-
-<!-- QA tell-audit: added two things beyond current top results: an explicit repair-vs-resurface-vs-replace decision framework tied to crack width (under vs over 1/4 inch) rather than a vague "consult a professional," and a clear separation between pool deck repair and pool resurfacing (the pool shell), which most competing guides blur together. Draft opened with "when your pool deck starts showing wear" throat-clearing, replaced with a direct cost answer. Final scan: zero em/en dashes. -->
